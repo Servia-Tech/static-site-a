@@ -4,7 +4,7 @@
 ## Calculators
 - [Gratuity Calculator UAE](https://calcnate.com/uae/gratuity-calculator/): UAE: 21 days basic salary/year first 5 years, 30 days/year after, ÷30 daily, cap 2 years' wages, min 1 year, resignation no longer reduces it (Decree-Law 33/2021).
 - [UAE Unemployment Insurance (ILOE) Calculator](https://calcnate.com/uae/unemployment-insurance-calculator/): UAE ILOE (unemployment insurance, Decree-Law 13/2022): 60% of avg basic salary (last 6mo), Category A (basic ≤16,000) capped AED 10,000/mo, Category B (basic >16,000) capped AED 20,000/mo, up to 3 months/claim, 12-month lifetime aggregate cap, needs 12 consecutive months' subscription, involuntary job loss only (not resignation/misconduct).
-- [UAE Final Settlement Calculator](https://calcnate.com/uae/final-settlement-calculator/): 
+- [UAE Final Settlement Calculator](https://calcnate.com/uae/final-settlement-calculator/): Combined UAE full & final settlement in one figure: end-of-service gratuity + unused leave encashment (at basic wage) + notice-period pay in lieu + pending salary, minus deductions, per Federal Decree-Law 33/2021.
 - [Saudi End of Service Calculator](https://calcnate.com/saudi/end-of-service-calculator/): Saudi (ESB): ½ month/year first 5, 1 month/year after, on last wage incl. allowances; resignation reduced (0 under 2yr, ⅓ 2-5yr, ⅔ 5-10yr, full 10yr+).
 - [Qatar Gratuity Calculator](https://calcnate.com/qatar/end-of-service-calculator/): Qatar: ≥21 days (3 weeks) basic wage per completed year, min 1 year, no resignation reduction.
 - [Kuwait Indemnity Calculator](https://calcnate.com/kuwait/indemnity-calculator/): Kuwait indemnity: 15 days/year first 5, 1 month/year after, daily=monthly÷26, on full pay; cap 18 months; resignation reduced.
