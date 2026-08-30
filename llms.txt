@@ -42,6 +42,21 @@
 - [Oman Leave Encashment Calculator](https://calcnate.com/oman/leave-encashment-calculator/): Oman leave encashment: 30 days/yr; in-service cash-out is basic wage only (employer-optional, needs written consent); mandatory end-of-service encashment uses the comprehensive/gross wage.
 - [India Leave Encashment Calculator](https://calcnate.com/india/leave-encashment-calculator/): India leave encashment: (Basic+DA) ÷30 × unused earned-leave days (some employers use ÷26); tax-exempt up to ₹25 lakh lifetime for non-government employees (Sec.10(10AA)); annual entitlement RATE varies by state/sector so this tool encashes a user-supplied day balance rather than computing accrual.
 - [Philippines Leave Encashment Calculator (Service Incentive Leave)](https://calcnate.com/philippines/leave-encashment-calculator/): Philippines leave encashment: Service Incentive Leave (SIL), 5 days/yr after 1yr (Art.95), the only Labor Code leave type mandated commutable to cash; daily rate × unused SIL days.
+
+## Global tools
+> Country-neutral money, pay and time calculators. Work in any currency; all run client-side.
+- [Global Tools](https://calcnate.com/tools/): Free global calculators for money, pay and time: compound interest, loan EMI with amortisation, mortgage affordability, salary conversion, overtime, pro-rata pay, working days, VAT and GST, percentages and retirement planning.
+- [Compound Interest Calculator](https://calcnate.com/tools/compound-interest-calculator/): Compound interest calculator with regular monthly contributions, any compounding frequency, a year-by-year growth table and the inflation-adjusted real value of your money.
+- [Loan & EMI Calculator](https://calcnate.com/tools/loan-emi-calculator/): Loan EMI calculator with a complete amortisation schedule. See your monthly payment, total interest, and how much time and interest an extra monthly payment saves.
+- [Mortgage Affordability Calculator](https://calcnate.com/tools/mortgage-affordability-calculator/): Work out how much house you can afford from your income, existing debts and deposit — including a stress test showing what happens if interest rates rise two points.
+- [Salary Converter](https://calcnate.com/tools/salary-converter/): Convert pay between hourly, daily, weekly, monthly and annual in any currency, using your real hours per week, days per week and paid weeks per year.
+- [Overtime Pay Calculator](https://calcnate.com/tools/overtime-pay-calculator/): Calculate overtime pay from a monthly salary or hourly rate, with separate hours at 1.25×, 1.5× and 2× — covering time-and-a-half, double time and Gulf labour-law rates.
+- [Pro-Rata Salary Calculator](https://calcnate.com/tools/pro-rata-salary-calculator/): Calculate pro-rata salary for part-time hours or a partial year. Handles mid-month joiners and leavers and shows the full-time equivalent percentage.
+- [Working Days Calculator](https://calcnate.com/tools/working-days-calculator/): Count business days between two dates with a weekend that matches your country — Saturday–Sunday, Friday–Saturday, Friday only or Sunday only — plus public holidays.
+- [VAT & GST Calculator](https://calcnate.com/tools/vat-gst-calculator/): Add VAT or GST to a net price, or work backwards to strip tax out of a gross price. Includes the reverse-VAT formula and a table of standard rates worldwide.
+- [Percentage Calculator](https://calcnate.com/tools/percentage-calculator/): Percentage calculator covering percent of a number, percent change between two values, increases, decreases and reverse percentages, with the formula shown each time.
+- [Retirement & FIRE Calculator](https://calcnate.com/tools/retirement-savings-calculator/): Project your retirement pot against the amount you actually need, adjusted for inflation, using the safe-withdrawal-rate method. Shows your financial independence age.
+
 ## Blog
 - [Qatar Gratuity 2026: The Complete End-of-Service Guide](https://calcnate.com/blog/qatar-gratuity-guide/): The 3-week rule, wage basis, resignation and a worked QAR example.
 - [How to Calculate Your Qatar Gratuity: A Worked Example](https://calcnate.com/blog/qatar-gratuity-calculation-example/): Step-by-step method with three worked QAR examples and a payout table.

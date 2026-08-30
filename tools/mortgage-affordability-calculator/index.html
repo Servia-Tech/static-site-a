@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mortgage Affordability Calculator (with Rate Stress Test) | Calcnate</title>
+<meta name="description" content="Work out how much house you can afford from your income, existing debts and deposit — including a stress test showing what happens if interest rates rise two points.">
+<link rel="canonical" href="https://calcnate.com/tools/mortgage-affordability-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="Mortgage Affordability Calculator — with rate stress test | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/mortgage-affordability-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/mortgage-affordability-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/mortgage-affordability-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Mortgage Affordability Calculator", "url": "https://calcnate.com/tools/mortgage-affordability-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Work out how much house you can afford from your income, existing debts and deposit — including a stress test showing what happens if interest rates rise two points.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Should I borrow the maximum I am offered?", "acceptedAnswer": {"@type": "Answer", "text": "Usually not. The maximum is the point at which a lender still expects to be repaid, not the point at which your life stays comfortable. The stress-test figure is a better guide to a safe borrowing level."}}, {"@type": "Question", "name": "Does a bigger deposit reduce my monthly payment?", "acceptedAnswer": {"@type": "Answer", "text": "It reduces the amount borrowed, so yes. It also commonly unlocks a lower rate band and can remove mortgage insurance, so the effect is larger than the headline number suggests."}}, {"@type": "Question", "name": "What counts as an existing debt payment?", "acceptedAnswer": {"@type": "Answer", "text": "Contractual monthly commitments: car finance, personal loans, student loans, credit-card minimums and any maintenance orders. Ordinary living costs like groceries and utilities are not counted in DTI, though lenders assess them separately."}}, {"@type": "Question", "name": "Why does the calculator ignore property taxes and insurance?", "acceptedAnswer": {"@type": "Answer", "text": "Because they vary enormously by country — some markets bundle them into the payment, others bill them annually and some have none at all. Deduct your local figure from the available-for-mortgage line for a stricter result."}}, {"@type": "Question", "name": "Is a 50% DTI safe just because a bank allows it?", "acceptedAnswer": {"@type": "Answer", "text": "A regulator-permitted ceiling is a limit on the lender, not a recommendation for you. At 50% DTI, half your gross income is committed before tax, housing costs and savings — most household budgets get very fragile there."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Mortgage Affordability Calculator", "item": "https://calcnate.com/tools/mortgage-affordability-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>🏠 Mortgage Affordability Calculator</h1><p>What you can realistically borrow — and whether you could still pay if rates rose.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › Mortgage Affordability Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Uses the debt-to-income method lenders actually apply. Works in any currency.</p>
+<label>Currency</label><select id="cur"><option>USD</option><option>EUR</option><option>GBP</option><option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>BHD</option><option>OMR</option><option>INR</option><option>PKR</option><option>PHP</option><option>BDT</option><option>LKR</option><option>NPR</option><option>EGP</option><option>NGN</option><option>KES</option><option>ZAR</option><option>AUD</option><option>CAD</option><option>NZD</option><option>SGD</option><option>MYR</option><option>IDR</option><option>THB</option><option>CNY</option><option>JPY</option><option>TRY</option><option>BRL</option><option>MXN</option><option>CHF</option><option>SEK</option><option>NOK</option><option>PLN</option></select><div class="grid2"><div><label>Your gross annual income</label><input id="inc" type="number" inputmode="decimal" placeholder="e.g. 90000"></div>
+<div><label>Co-applicant income <span class="hint">optional</span></label><input id="inc2" type="number" inputmode="decimal" placeholder="e.g. 40000"></div></div>
+<label>Existing monthly debt payments <span class="hint">— car, cards, other loans</span></label><input id="debts" type="number" inputmode="decimal" placeholder="e.g. 600">
+<label>Deposit / down payment saved</label><input id="dep" type="number" inputmode="decimal" placeholder="e.g. 60000">
+<div class="grid2"><div><label>Mortgage rate (%)</label><input id="r" type="number" inputmode="decimal" placeholder="e.g. 5"></div>
+<div><label>Term (years)</label><input id="yrs" type="number" inputmode="decimal" placeholder="e.g. 25"></div></div>
+<label>Maximum debt-to-income ratio (%) <span class="hint">— lenders typically use 36–43</span></label><input id="dti" type="number" inputmode="decimal" placeholder="36">
+<button class="btn" onclick="cnAfford()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">What you can afford</h2>
+<div id="lines"></div>
+<div class="total"><span>Maximum property price</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>How lenders decide what you can borrow</h2><div class="card">
+<p>Almost every lender in the world applies some version of the same three tests. The binding one is usually <b>debt-to-income</b>.</p>
+<h3>1. Debt-to-income (DTI)</h3>
+<p>Your total monthly debt payments — the new mortgage plus car finance, credit cards and personal loans — must stay under a percentage of gross monthly income. Common limits:</p>
+<table><tr><th>Market / product</th><th>Typical maximum DTI</th></tr>
+<tr><td>Conservative / conforming</td><td>36%</td></tr><tr><td>US qualified mortgage</td><td>43%</td></tr>
+<tr><td>Many GCC banks</td><td>50% of salary (regulator-capped)</td></tr><tr><td>UK affordability model</td><td>Income multiple ~4.5× plus a stress test</td></tr></table>
+<p class="sub">Enter the limit that applies to you. Using a lower figure than the maximum is how you leave yourself room.</p>
+<h3>2. Deposit / loan-to-value</h3>
+<p>The deposit does not affect the monthly payment maths — it raises the price you can reach, one-for-one. It also drives the rate you are offered: most lenders price in tiers at 90%, 80% and 75% loan-to-value, and a larger deposit often removes mortgage insurance entirely.</p>
+<h3>3. The stress test — the part most calculators omit</h3>
+<p>Regulators in the UK, EU, Canada and Australia require lenders to check you could still pay if rates rose by roughly two percentage points. This calculator runs that test for you. If the stressed maximum is far below the headline maximum, borrowing the full amount is a bet on rates staying low.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>Should I borrow the maximum I am offered?</summary><p>Usually not. The maximum is the point at which a lender still expects to be repaid, not the point at which your life stays comfortable. The stress-test figure is a better guide to a safe borrowing level.</p></details>
+<details><summary>Does a bigger deposit reduce my monthly payment?</summary><p>It reduces the amount borrowed, so yes. It also commonly unlocks a lower rate band and can remove mortgage insurance, so the effect is larger than the headline number suggests.</p></details>
+<details><summary>What counts as an existing debt payment?</summary><p>Contractual monthly commitments: car finance, personal loans, student loans, credit-card minimums and any maintenance orders. Ordinary living costs like groceries and utilities are not counted in DTI, though lenders assess them separately.</p></details>
+<details><summary>Why does the calculator ignore property taxes and insurance?</summary><p>Because they vary enormously by country — some markets bundle them into the payment, others bill them annually and some have none at all. Deduct your local figure from the available-for-mortgage line for a stricter result.</p></details>
+<details><summary>Is a 50% DTI safe just because a bank allows it?</summary><p>A regulator-permitted ceiling is a limit on the lender, not a recommendation for you. At 50% DTI, half your gross income is committed before tax, housing costs and savings — most household budgets get very fragile there.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/loan-emi-calculator/">🏦 Loan & EMI Calculator</a><a href="/tools/salary-converter/">💼 Salary Converter</a><a href="/tools/compound-interest-calculator/">📈 Compound Interest</a></div>
+<div class="disc">Estimate only, not financial advice or a mortgage offer. Excludes property tax, insurance, service charges and fees. Lending criteria vary by country and lender.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnAfford(){
+  var cur=document.getElementById('cur').value;
+  var inc=cn_n('inc')+cn_n('inc2'), debts=cn_n('debts'), dep=cn_n('dep');
+  var ra=cn_n('r'), yrs=cn_n('yrs'), dti=cn_n('dti')||36;
+  if(inc<=0||yrs<=0){alert('Enter your annual income and the mortgage term.');return;}
+  var n=Math.round(yrs*12);
+  function loanFor(rate,pmt){ var i=rate/100/12;
+    if(pmt<=0) return 0;
+    return (i>0) ? pmt*(Math.pow(1+i,n)-1)/(i*Math.pow(1+i,n)) : pmt*n; }
+  var maxPmt = inc/12*(dti/100) - debts;
+  if(maxPmt<=0){ cn_show('<div class="line"><span>Available for a mortgage</span><span>'+cn_money(cur,0)+'</span></div>',0,cur,'Your existing debt payments already use the whole debt-to-income allowance. Reducing other debts is the fastest way to raise what you can borrow.'); cn_extra(''); return; }
+  var loan=loanFor(ra,maxPmt), price=loan+dep;
+  var sLoan=loanFor(ra+2,maxPmt), sPrice=sLoan+dep;
+  var i=ra/100/12;
+  var pmtAtPrice = (i>0)? loan*i*Math.pow(1+i,n)/(Math.pow(1+i,n)-1) : loan/n;
+  var lines='<div class="line"><span>Combined annual income</span><span>'+cn_money(cur,inc)+'</span></div>'
+   +'<div class="line"><span>Monthly budget for all debt ('+dti+'%)</span><span>'+cn_money(cur,inc/12*(dti/100))+'</span></div>'
+   +'<div class="line"><span>Less existing debts</span><span>-'+cn_money(cur,debts)+'</span></div>'
+   +'<div class="line"><span>Available for the mortgage</span><span>'+cn_money(cur,maxPmt)+'</span></div>'
+   +'<div class="line"><span>Maximum loan</span><span>'+cn_money(cur,loan)+'</span></div>'
+   +'<div class="line"><span>Plus your deposit</span><span>'+cn_money(cur,dep)+'</span></div>'
+   +'<div class="line"><span>Deposit as % of price</span><span>'+(price>0?(dep/price*100).toFixed(1):'0')+'%</span></div>';
+  cn_show(lines,price,cur,'Based on a '+dti+'% debt-to-income limit at '+ra+'% over '+yrs+' years. Monthly payment would be about '+cn_money(cur,pmtAtPrice)+'.');
+  cn_extra('<h3>Stress test — if rates rose 2 points</h3><table><tr><th></th><th>At '+ra+'%</th><th>At '+(ra+2)+'%</th></tr>'
+   +'<tr><td>Maximum loan</td><td>'+cn_money(cur,loan)+'</td><td>'+cn_money(cur,sLoan)+'</td></tr>'
+   +'<tr><td>Maximum price</td><td>'+cn_money(cur,price)+'</td><td>'+cn_money(cur,sPrice)+'</td></tr></table>'
+   +'<p class="sub">If you borrow the full '+cn_money(cur,loan)+' at today\u2019s rate and rates later rise 2 points, your payment rises to about '+cn_money(cur,loanPmt(loan,ra+2,n))+' a month — buying below your maximum is what protects you.</p>');
+}
+function loanPmt(P,ra,n){ var i=ra/100/12; return (i>0)? P*i*Math.pow(1+i,n)/(Math.pow(1+i,n)-1) : P/n; }
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>

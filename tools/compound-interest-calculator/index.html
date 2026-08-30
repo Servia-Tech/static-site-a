@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compound Interest Calculator (with Monthly Contributions) | Calcnate</title>
+<meta name="description" content="Compound interest calculator with regular monthly contributions, any compounding frequency, a year-by-year growth table and the inflation-adjusted real value of your money.">
+<link rel="canonical" href="https://calcnate.com/tools/compound-interest-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="Compound Interest Calculator — with contributions and inflation | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/compound-interest-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/compound-interest-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/compound-interest-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Compound Interest Calculator", "url": "https://calcnate.com/tools/compound-interest-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Compound interest calculator with regular monthly contributions, any compounding frequency, a year-by-year growth table and the inflation-adjusted real value of your money.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the difference between simple and compound interest?", "acceptedAnswer": {"@type": "Answer", "text": "Simple interest is paid only on the original amount, so 1,000 at 10% earns 100 every year forever. Compound interest is paid on the balance including past interest, so year two earns 110, year three earns 121, and so on. Over long periods the difference is enormous."}}, {"@type": "Question", "name": "Should I use monthly or annual compounding?", "acceptedAnswer": {"@type": "Answer", "text": "Use whatever your account actually does. Most savings accounts and loans compound monthly or daily; bonds often pay half-yearly. If you do not know, monthly is the closest approximation for most retail products."}}, {"@type": "Question", "name": "Are contributions added at the start or end of the month?", "acceptedAnswer": {"@type": "Answer", "text": "At the end of each month, which is the conservative assumption and matches how most salary-funded savings work. Contributing at the start of the month would produce a slightly higher balance."}}, {"@type": "Question", "name": "What return rate should I assume?", "acceptedAnswer": {"@type": "Answer", "text": "That is your judgement, not a fact this tool can supply. For context, long-run global equity returns have historically averaged roughly 7% a year before inflation, but any individual decade can be far higher or lower — including negative."}}, {"@type": "Question", "name": "Does this account for tax?", "acceptedAnswer": {"@type": "Answer", "text": "No. Investment and interest income are taxed very differently across countries, so the projection is pre-tax. Reduce your assumed rate if interest is taxed annually where you live."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Compound Interest Calculator", "item": "https://calcnate.com/tools/compound-interest-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>📈 Compound Interest Calculator</h1><p>Project savings growth with regular contributions — and see what the balance is actually worth after inflation.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › Compound Interest Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Works in any currency. Contributions are added at the end of each month.</p>
+<label>Currency</label><select id="cur"><option>USD</option><option>EUR</option><option>GBP</option><option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>BHD</option><option>OMR</option><option>INR</option><option>PKR</option><option>PHP</option><option>BDT</option><option>LKR</option><option>NPR</option><option>EGP</option><option>NGN</option><option>KES</option><option>ZAR</option><option>AUD</option><option>CAD</option><option>NZD</option><option>SGD</option><option>MYR</option><option>IDR</option><option>THB</option><option>CNY</option><option>JPY</option><option>TRY</option><option>BRL</option><option>MXN</option><option>CHF</option><option>SEK</option><option>NOK</option><option>PLN</option></select><label>Starting amount</label><input id="P" type="number" inputmode="decimal" placeholder="e.g. 10000">
+<label>Monthly contribution <span class="hint">— leave blank for none</span></label><input id="PMT" type="number" inputmode="decimal" placeholder="e.g. 500">
+<div class="grid2"><div><label>Annual interest rate (%)</label><input id="r" type="number" inputmode="decimal" placeholder="e.g. 7"></div>
+<div><label>Number of years</label><input id="yrs" type="number" inputmode="decimal" placeholder="e.g. 20"></div></div>
+<div class="grid2"><div><label>Compounding</label><select id="freq"><option value="12">Monthly</option><option value="4">Quarterly</option><option value="2">Half-yearly</option><option value="1">Yearly</option><option value="365">Daily</option><option value="0">Continuous</option></select></div>
+<div><label>Inflation (%) <span class="hint">optional</span></label><input id="infl" type="number" inputmode="decimal" placeholder="e.g. 3"></div></div>
+<button class="btn" onclick="cnCompound()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">Your projected balance</h2>
+<div id="lines"></div>
+<div class="total"><span>Balance at the end</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>How compound interest is calculated</h2><div class="card">
+<p>Compound interest pays interest on your interest. The balance after <b>t</b> years on a lump sum is:</p>
+<p style="text-align:center;font-size:16px"><b>A = P × (1 + r/n)<sup>n·t</sup></b></p>
+<p class="sub">P = starting amount · r = annual rate as a decimal · n = compounding periods per year · t = years.</p>
+<p>Regular contributions are handled separately, because each one compounds for a different length of time. This calculator converts your nominal rate into an <b>effective annual rate</b>, then into an equivalent monthly rate, and steps through the balance month by month — which is exactly how a savings account or index fund actually behaves.</p>
+<h3>Why compounding frequency matters</h3>
+<p>The same 7% behaves differently depending on how often it is applied. On a 10,000 lump sum over one year:</p>
+<table><tr><th>Compounding</th><th>Effective rate</th><th>Balance after 1 year</th></tr>
+<tr><td>Yearly</td><td>7.000%</td><td>10,700</td></tr><tr><td>Half-yearly</td><td>7.123%</td><td>10,712</td></tr>
+<tr><td>Quarterly</td><td>7.186%</td><td>10,719</td></tr><tr><td>Monthly</td><td>7.229%</td><td>10,723</td></tr>
+<tr><td>Daily</td><td>7.250%</td><td>10,725</td></tr><tr><td>Continuous</td><td>7.251%</td><td>10,725</td></tr></table>
+<p class="sub">The gap between yearly and daily is small over one year but compounds into a real difference over decades.</p>
+<h3>Why the inflation field matters</h3>
+<p>A balance of 500,000 in thirty years is not 500,000 of today's spending power. Entering an inflation rate divides the final balance by (1 + inflation)<sup>years</sup> to show the <b>real</b> value — the number that actually tells you what the money will buy.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>What is the difference between simple and compound interest?</summary><p>Simple interest is paid only on the original amount, so 1,000 at 10% earns 100 every year forever. Compound interest is paid on the balance including past interest, so year two earns 110, year three earns 121, and so on. Over long periods the difference is enormous.</p></details>
+<details><summary>Should I use monthly or annual compounding?</summary><p>Use whatever your account actually does. Most savings accounts and loans compound monthly or daily; bonds often pay half-yearly. If you do not know, monthly is the closest approximation for most retail products.</p></details>
+<details><summary>Are contributions added at the start or end of the month?</summary><p>At the end of each month, which is the conservative assumption and matches how most salary-funded savings work. Contributing at the start of the month would produce a slightly higher balance.</p></details>
+<details><summary>What return rate should I assume?</summary><p>That is your judgement, not a fact this tool can supply. For context, long-run global equity returns have historically averaged roughly 7% a year before inflation, but any individual decade can be far higher or lower — including negative.</p></details>
+<details><summary>Does this account for tax?</summary><p>No. Investment and interest income are taxed very differently across countries, so the projection is pre-tax. Reduce your assumed rate if interest is taxed annually where you live.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/retirement-savings-calculator/">🎯 Retirement & FIRE Calculator</a><a href="/tools/loan-emi-calculator/">🏦 Loan & EMI Calculator</a><a href="/tools/percentage-calculator/">％ Percentage Calculator</a></div>
+<div class="disc">Projection only, not financial advice. Investment returns are not guaranteed and past performance does not predict future results. Figures are pre-tax.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnCompound(){
+  var cur=document.getElementById('cur').value;
+  var P=cn_n('P'), PMT=cn_n('PMT'), r=cn_n('r')/100, yrs=cn_n('yrs');
+  var n=parseFloat(document.getElementById('freq').value), infl=cn_n('infl')/100;
+  if(yrs<=0){alert('Please enter the number of years.');return;}
+  if(P<=0&&PMT<=0){alert('Enter a starting amount or a monthly contribution.');return;}
+  var eff = (n>0) ? Math.pow(1+r/n,n)-1 : Math.exp(r)-1;
+  var mrate = Math.pow(1+eff,1/12)-1;
+  var bal=P, contrib=P, rows='', months=Math.round(yrs*12);
+  for(var m=1;m<=months;m++){
+    bal = bal*(1+mrate) + PMT; contrib += PMT;
+    if(m%12===0){ var y=m/12;
+      rows+='<tr><td>'+y+'</td><td>'+cn_money(cur,contrib)+'</td><td>'+cn_money(cur,bal-contrib)+'</td><td>'+cn_money(cur,bal)+'</td></tr>'; }
+  }
+  var interest=bal-contrib;
+  var real = (infl>0) ? bal/Math.pow(1+infl,yrs) : bal;
+  var lines='<div class="line"><span>Total you put in</span><span>'+cn_money(cur,contrib)+'</span></div>'
+    +'<div class="line"><span>Interest earned</span><span>'+cn_money(cur,interest)+'</span></div>'
+    +'<div class="line"><span>Effective annual rate</span><span>'+(eff*100).toFixed(2)+'%</span></div>';
+  if(infl>0) lines+='<div class="line"><span>Real value in today\u2019s money</span><span>'+cn_money(cur,real)+'</span></div>';
+  cn_show(lines,bal,cur,'Interest is compounded '+(n>0?n+' time(s) a year':'continuously')+' and contributions are added at the end of each month.');
+  if(rows) cn_extra('<h3>Year by year</h3><table><tr><th>Year</th><th>Paid in</th><th>Interest</th><th>Balance</th></tr>'+rows+'</table>');
+}
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>

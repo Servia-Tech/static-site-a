@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VAT & GST Calculator — Add or Remove Sales Tax | Calcnate</title>
+<meta name="description" content="Add VAT or GST to a net price, or work backwards to strip tax out of a gross price. Includes the reverse-VAT formula and a table of standard rates worldwide.">
+<link rel="canonical" href="https://calcnate.com/tools/vat-gst-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="VAT / GST Calculator — add or remove tax | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/vat-gst-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/vat-gst-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/vat-gst-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "VAT & GST Calculator", "url": "https://calcnate.com/tools/vat-gst-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Add VAT or GST to a net price, or work backwards to strip tax out of a gross price. Includes the reverse-VAT formula and a table of standard rates worldwide.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I remove VAT from a total?", "acceptedAnswer": {"@type": "Answer", "text": "Divide the gross amount by 1 plus the rate as a decimal. To remove 20% VAT, divide by 1.20. Do not subtract 20% from the gross figure — that gives the wrong answer."}}, {"@type": "Question", "name": "What is the difference between VAT and GST?", "acceptedAnswer": {"@type": "Answer", "text": "Very little in mechanism. Both are value-added taxes collected in stages with input-tax recovery for businesses. The name differs by country, and India's GST is split into central and state components."}}, {"@type": "Question", "name": "Why is US sales tax not in the list?", "acceptedAnswer": {"@type": "Answer", "text": "Because the US has no national rate. Sales tax is set by states, counties and cities, so the combined rate depends on the delivery address. Five states levy no state sales tax at all."}}, {"@type": "Question", "name": "Which rate applies to my product?", "acceptedAnswer": {"@type": "Answer", "text": "The standard rate unless your product is in a reduced, zero-rated or exempt category — commonly food, medicine, books, education and healthcare. Check your tax authority's schedule; the categories are specific and often counter-intuitive."}}, {"@type": "Question", "name": "Is the tax on the discounted price or the original?", "acceptedAnswer": {"@type": "Answer", "text": "On the price actually charged, after discount. If you discount 1,000 to 900, tax is calculated on 900."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "VAT & GST Calculator", "item": "https://calcnate.com/tools/vat-gst-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>🧾 VAT & GST Calculator</h1><p>Add tax to a net price, or extract the tax already inside a gross price.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › VAT & GST Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Choose a rate or type your own.</p>
+<label>Currency</label><select id="cur"><option>USD</option><option>EUR</option><option>GBP</option><option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>BHD</option><option>OMR</option><option>INR</option><option>PKR</option><option>PHP</option><option>BDT</option><option>LKR</option><option>NPR</option><option>EGP</option><option>NGN</option><option>KES</option><option>ZAR</option><option>AUD</option><option>CAD</option><option>NZD</option><option>SGD</option><option>MYR</option><option>IDR</option><option>THB</option><option>CNY</option><option>JPY</option><option>TRY</option><option>BRL</option><option>MXN</option><option>CHF</option><option>SEK</option><option>NOK</option><option>PLN</option></select><label>Amount</label><input id="amt" type="number" inputmode="decimal" placeholder="e.g. 1000">
+<label>What is this amount?</label><select id="mode"><option value="add">Net — add tax to it</option><option value="rem">Gross — tax is already included</option></select>
+<label>Tax rate</label><select id="preset" onchange="cnPreset()">
+<option value="">— type a custom rate below —</option>
+<option value="5">5% — UAE, Saudi Arabia (pre-2020), Japan (reduced), Taiwan</option>
+<option value="7">7% — Thailand, Singapore (2023)</option>
+<option value="9">9% — Singapore (2024)</option>
+<option value="10">10% — Australia, Japan, South Korea, Indonesia, Egypt (14% std)</option>
+<option value="12">12% — Philippines</option>
+<option value="15">15% — Saudi Arabia, New Zealand, South Africa</option>
+<option value="18">18% — India (standard slab), Turkey</option>
+<option value="19">19% — Germany, Chile, Romania</option>
+<option value="20">20% — United Kingdom, France, Austria</option>
+<option value="21">21% — Netherlands, Spain, Belgium</option>
+<option value="23">23% — Poland, Portugal, Ireland</option>
+<option value="25">25% — Sweden, Denmark, Norway, Croatia</option>
+<option value="27">27% — Hungary (highest standard rate in the world)</option></select>
+<label>Rate (%)</label><input id="rate" type="number" inputmode="decimal" placeholder="e.g. 5">
+<button class="btn" onclick="cnVAT()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">Your figures</h2>
+<div id="lines"></div>
+<div class="total"><span>Tax amount</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>How VAT and GST are calculated</h2><div class="card">
+<h3>Adding tax to a net price</h3>
+<p style="text-align:center;font-size:16px"><b>tax = net × rate ÷ 100</b></p>
+<p class="sub">1,000 net at 5% → 50 tax → 1,050 gross.</p>
+<h3>Removing tax from a gross price — the one people get wrong</h3>
+<p>You cannot simply take the percentage off a gross figure. To strip 5% tax out of 1,050, subtracting 5% gives 997.50, which is wrong. The correct formula divides:</p>
+<p style="text-align:center;font-size:16px"><b>net = gross ÷ (1 + rate ÷ 100)</b></p>
+<p class="sub">1,050 ÷ 1.05 = 1,000 net, so the tax is 50. The error grows with the rate: at 20% the naive method understates the net price by 4%.</p>
+<h3>VAT, GST and sales tax are not quite the same thing</h3>
+<table><tr><th>Type</th><th>How it works</th><th>Where</th></tr>
+<tr><td>VAT</td><td>Charged at each stage; businesses reclaim input tax so only the end consumer bears it</td><td>EU, UK, GCC, most of Africa and Latin America</td></tr>
+<tr><td>GST</td><td>Mechanically the same as VAT, different name; India splits it into CGST/SGST/IGST</td><td>India, Australia, Canada, New Zealand, Singapore</td></tr>
+<tr><td>Sales tax</td><td>Charged only at final sale, no input reclaim; rates stack by state and city</td><td>United States</td></tr></table>
+<p class="sub">US sales tax is not included in the preset list because there is no national rate — the combined state and local rate varies by address, from zero in several states to over 10% in parts of Louisiana and Tennessee.</p>
+<h3>Reduced and zero rates</h3>
+<p>The presets are <b>standard</b> rates. Most countries apply reduced rates to food, medicine, books, children's clothing and transport, and zero-rate exports. India's GST runs in slabs of 0, 5, 12, 18 and 28%. Always confirm which rate applies to the specific goods or service.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>How do I remove VAT from a total?</summary><p>Divide the gross amount by 1 plus the rate as a decimal. To remove 20% VAT, divide by 1.20. Do not subtract 20% from the gross figure — that gives the wrong answer.</p></details>
+<details><summary>What is the difference between VAT and GST?</summary><p>Very little in mechanism. Both are value-added taxes collected in stages with input-tax recovery for businesses. The name differs by country, and India's GST is split into central and state components.</p></details>
+<details><summary>Why is US sales tax not in the list?</summary><p>Because the US has no national rate. Sales tax is set by states, counties and cities, so the combined rate depends on the delivery address. Five states levy no state sales tax at all.</p></details>
+<details><summary>Which rate applies to my product?</summary><p>The standard rate unless your product is in a reduced, zero-rated or exempt category — commonly food, medicine, books, education and healthcare. Check your tax authority's schedule; the categories are specific and often counter-intuitive.</p></details>
+<details><summary>Is the tax on the discounted price or the original?</summary><p>On the price actually charged, after discount. If you discount 1,000 to 900, tax is calculated on 900.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/percentage-calculator/">％ Percentage Calculator</a><a href="/tools/loan-emi-calculator/">🏦 Loan & EMI Calculator</a><a href="/tools/compound-interest-calculator/">📈 Compound Interest</a></div>
+<div class="disc">General calculation tool, not tax advice. Rates shown are standard rates and change over time; reduced and exempt categories apply. Confirm with your tax authority.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnPreset(){ var v=document.getElementById('preset').value; if(v) document.getElementById('rate').value=v; }
+function cnVAT(){
+  var cur=document.getElementById('cur').value;
+  var amt=cn_n('amt'), rate=cn_n('rate'), mode=document.getElementById('mode').value;
+  if(amt<=0){alert('Enter an amount.');return;}
+  if(rate<0){alert('The rate cannot be negative.');return;}
+  var net,tax,gross;
+  if(mode==='add'){ net=amt; tax=amt*rate/100; gross=net+tax; }
+  else { gross=amt; net=amt/(1+rate/100); tax=gross-net; }
+  var lines='<div class="line"><span>Net (excluding tax)</span><span>'+cn_money(cur,net)+'</span></div>'
+   +'<div class="line"><span>Tax at '+rate+'%</span><span>'+cn_money(cur,tax)+'</span></div>'
+   +'<div class="line"><span>Gross (including tax)</span><span>'+cn_money(cur,gross)+'</span></div>'
+   +'<div class="line"><span>Tax as % of gross</span><span>'+(gross>0?(tax/gross*100).toFixed(2):'0')+'%</span></div>';
+  cn_show(lines,tax,cur,mode==='add'?'Tax added to a net amount.':'Tax extracted from a tax-inclusive amount using amount ÷ (1 + rate).');
+  cn_extra('');
+}
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>

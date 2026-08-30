@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loan EMI Calculator with Amortisation Schedule | Calcnate</title>
+<meta name="description" content="Loan EMI calculator with a complete amortisation schedule. See your monthly payment, total interest, and how much time and interest an extra monthly payment saves.">
+<link rel="canonical" href="https://calcnate.com/tools/loan-emi-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="Loan & EMI Calculator — full amortisation schedule | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/loan-emi-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/loan-emi-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/loan-emi-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Loan & EMI Calculator", "url": "https://calcnate.com/tools/loan-emi-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Loan EMI calculator with a complete amortisation schedule. See your monthly payment, total interest, and how much time and interest an extra monthly payment saves.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does EMI stand for?", "acceptedAnswer": {"@type": "Answer", "text": "Equated Monthly Instalment — a fixed monthly payment covering both interest and principal, so the loan is fully repaid by the end of the term."}}, {"@type": "Question", "name": "Why is my total repayment so much more than the loan?", "acceptedAnswer": {"@type": "Answer", "text": "Because interest is charged every month on the balance still outstanding. On a 20-year loan at 5.5% you repay roughly 165% of what you borrowed. The amortisation table shows the split year by year."}}, {"@type": "Question", "name": "Does paying extra reduce my EMI or my term?", "acceptedAnswer": {"@type": "Answer", "text": "By default most lenders keep the EMI the same and shorten the term, which is what this calculator models. Some will instead recalculate a lower EMI over the original term. Ask your lender which they do — shortening the term saves far more interest."}}, {"@type": "Question", "name": "Is this the same as a mortgage calculator?", "acceptedAnswer": {"@type": "Answer", "text": "The payment maths is identical. A mortgage additionally involves a deposit, property price and affordability limits — use the mortgage affordability calculator for that."}}, {"@type": "Question", "name": "Does it handle variable or floating rates?", "acceptedAnswer": {"@type": "Answer", "text": "No. It assumes the rate is fixed for the whole term. For a floating loan, run it once at today's rate and again a few points higher to see your exposure."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Loan & EMI Calculator", "item": "https://calcnate.com/tools/loan-emi-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>🏦 Loan & EMI Calculator</h1><p>Your monthly instalment, the true interest cost, and what overpaying actually saves you.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › Loan & EMI Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Works for home loans, car loans and personal loans in any currency.</p>
+<label>Currency</label><select id="cur"><option>USD</option><option>EUR</option><option>GBP</option><option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>BHD</option><option>OMR</option><option>INR</option><option>PKR</option><option>PHP</option><option>BDT</option><option>LKR</option><option>NPR</option><option>EGP</option><option>NGN</option><option>KES</option><option>ZAR</option><option>AUD</option><option>CAD</option><option>NZD</option><option>SGD</option><option>MYR</option><option>IDR</option><option>THB</option><option>CNY</option><option>JPY</option><option>TRY</option><option>BRL</option><option>MXN</option><option>CHF</option><option>SEK</option><option>NOK</option><option>PLN</option></select><label>Loan amount</label><input id="P" type="number" inputmode="decimal" placeholder="e.g. 250000">
+<div class="grid2"><div><label>Annual interest rate (%)</label><input id="r" type="number" inputmode="decimal" placeholder="e.g. 5.5"></div>
+<div><label>Term (years)</label><input id="yrs" type="number" inputmode="decimal" placeholder="e.g. 20"></div></div>
+<label>Extra monthly payment <span class="hint">— optional, to see the saving</span></label><input id="extra" type="number" inputmode="decimal" placeholder="e.g. 200">
+<button class="btn" onclick="cnLoan()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">Your loan</h2>
+<div id="lines"></div>
+<div class="total"><span>Monthly payment (EMI)</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>How the EMI is calculated</h2><div class="card">
+<p>Every mainstream lender uses the same reducing-balance formula:</p>
+<p style="text-align:center;font-size:16px"><b>EMI = P × i × (1+i)<sup>n</sup> ÷ ((1+i)<sup>n</sup> − 1)</b></p>
+<p class="sub">P = loan amount · i = monthly rate (annual ÷ 12 ÷ 100) · n = number of monthly payments.</p>
+<h3>Why your early payments are almost all interest</h3>
+<p>Interest each month is charged on the <i>outstanding balance</i>, which is at its largest on day one. On a 250,000 loan at 5.5% over 20 years, the first payment is roughly 1,146 — of which about 1,146 × 55% is interest. By the final year almost the whole payment goes to principal. This is why the amortisation table above matters more than the headline rate: it shows where your money actually goes.</p>
+<h3>Why overpaying is so effective</h3>
+<p>An extra payment comes off the principal directly, so it removes not just that amount but every future month of interest that amount would have generated. On a long loan, a modest overpayment early can cut years off the term. Enter a figure in the extra-payment field to see the exact saving on your own numbers.</p>
+<h3>What this does not include</h3>
+<p>Processing fees, insurance, early-settlement penalties and rate changes on a variable loan are not modelled. Check whether your lender charges a prepayment penalty before overpaying — in some markets it cancels out the benefit.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>What does EMI stand for?</summary><p>Equated Monthly Instalment — a fixed monthly payment covering both interest and principal, so the loan is fully repaid by the end of the term.</p></details>
+<details><summary>Why is my total repayment so much more than the loan?</summary><p>Because interest is charged every month on the balance still outstanding. On a 20-year loan at 5.5% you repay roughly 165% of what you borrowed. The amortisation table shows the split year by year.</p></details>
+<details><summary>Does paying extra reduce my EMI or my term?</summary><p>By default most lenders keep the EMI the same and shorten the term, which is what this calculator models. Some will instead recalculate a lower EMI over the original term. Ask your lender which they do — shortening the term saves far more interest.</p></details>
+<details><summary>Is this the same as a mortgage calculator?</summary><p>The payment maths is identical. A mortgage additionally involves a deposit, property price and affordability limits — use the mortgage affordability calculator for that.</p></details>
+<details><summary>Does it handle variable or floating rates?</summary><p>No. It assumes the rate is fixed for the whole term. For a floating loan, run it once at today's rate and again a few points higher to see your exposure.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/mortgage-affordability-calculator/">🏠 Mortgage Affordability</a><a href="/tools/compound-interest-calculator/">📈 Compound Interest Calculator</a><a href="/tools/percentage-calculator/">％ Percentage Calculator</a></div>
+<div class="disc">Estimate only, not financial advice. Excludes fees, insurance and prepayment penalties. Confirm exact figures with your lender.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnLoan(){
+  var cur=document.getElementById('cur').value;
+  var P=cn_n('P'), ra=cn_n('r'), yrs=cn_n('yrs'), extra=cn_n('extra');
+  var r=ra/100/12, n=Math.round(yrs*12);
+  if(P<=0||n<=0){alert('Enter a loan amount and a term in years.');return;}
+  var emi = (r>0) ? P*r*Math.pow(1+r,n)/(Math.pow(1+r,n)-1) : P/n;
+  var baseInterest = emi*n - P;
+  var bal=P, intPaid=0, m=0, rows='', yI=0, yP=0, guard=n*4+1200;
+  while(bal>0.005 && m<guard){
+    m++;
+    var i=bal*r, prin=emi+extra-i;
+    if(prin<=0){alert('The payment does not cover the interest. Increase the term or lower the rate.');return;}
+    if(prin>bal) prin=bal;
+    bal-=prin; intPaid+=i; yI+=i; yP+=prin;
+    if(m%12===0||bal<=0.005){
+      rows+='<tr><td>'+Math.ceil(m/12)+'</td><td>'+cn_money(cur,yP)+'</td><td>'+cn_money(cur,yI)+'</td><td>'+cn_money(cur,bal)+'</td></tr>';
+      yI=0; yP=0;
+    }
+  }
+  var lines='<div class="line"><span>Loan amount</span><span>'+cn_money(cur,P)+'</span></div>'
+   +'<div class="line"><span>Total interest</span><span>'+cn_money(cur,intPaid)+'</span></div>'
+   +'<div class="line"><span>Total repaid</span><span>'+cn_money(cur,P+intPaid)+'</span></div>'
+   +'<div class="line"><span>Payoff time</span><span>'+Math.floor(m/12)+'y '+(m%12)+'m</span></div>';
+  if(extra>0){
+    lines+='<div class="line"><span>Interest saved by overpaying</span><span>'+cn_money(cur,baseInterest-intPaid)+'</span></div>'
+     +'<div class="line"><span>Time saved</span><span>'+Math.floor((n-m)/12)+'y '+((n-m)%12)+'m</span></div>';
+  }
+  cn_show(lines,emi+extra,cur,extra>0?'Total monthly outgoing including your '+cn_money(cur,extra)+' overpayment. Contractual EMI is '+cn_money(cur,emi)+'.':'Equal monthly instalment on a reducing balance.');
+  cn_extra('<h3>Amortisation by year</h3><table><tr><th>Year</th><th>Principal paid</th><th>Interest paid</th><th>Balance left</th></tr>'+rows+'</table>');
+}
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>

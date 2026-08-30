@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Percentage Calculator — Change, Increase, Decrease & Reverse | Calcnate</title>
+<meta name="description" content="Percentage calculator covering percent of a number, percent change between two values, increases, decreases and reverse percentages, with the formula shown each time.">
+<link rel="canonical" href="https://calcnate.com/tools/percentage-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="Percentage Calculator — six modes | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/percentage-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/percentage-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/percentage-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Percentage Calculator", "url": "https://calcnate.com/tools/percentage-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Percentage calculator covering percent of a number, percent change between two values, increases, decreases and reverse percentages, with the formula shown each time.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I calculate a percentage increase?", "acceptedAnswer": {"@type": "Answer", "text": "Subtract the old value from the new one, divide by the old value, then multiply by 100. From 200 to 250: (250 − 200) ÷ 200 × 100 = 25%."}}, {"@type": "Question", "name": "Why doesn't reversing a percentage get me back to the original?", "acceptedAnswer": {"@type": "Answer", "text": "Because the second percentage applies to a different base. A 20% fall needs a 25% rise to undo it, since the rise is calculated on the reduced figure."}}, {"@type": "Question", "name": "What is the difference between percent and percentage points?", "acceptedAnswer": {"@type": "Answer", "text": "A move from 5% to 7% is two percentage points, but a 40% increase in the rate. Percentage points measure the gap between two percentages; percent measures relative change."}}, {"@type": "Question", "name": "How do I work out the original price before a discount?", "acceptedAnswer": {"@type": "Answer", "text": "Use the reverse mode. If an item costs 80 after a 20% discount, it was 80 ÷ 0.80 = 100 originally."}}, {"@type": "Question", "name": "Can percent change be more than 100%?", "acceptedAnswer": {"@type": "Answer", "text": "Yes for increases — doubling is +100%, tripling is +200%. Decreases cannot go below −100%, because that would mean the value fell past zero."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Percentage Calculator", "item": "https://calcnate.com/tools/percentage-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>％ Percentage Calculator</h1><p>Six different percentage questions in one tool — with the formula shown, so you can check the working.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › Percentage Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Pick what you are trying to work out; the labels change to match.</p>
+<label>What do you want to calculate?</label><select id="mode" onchange="cnPctLabels()">
+<option value="of">What is A% of B?</option>
+<option value="isof">A is what percent of B?</option>
+<option value="chg">Percent change from A to B</option>
+<option value="inc">Increase A by B%</option>
+<option value="dec">Decrease A by B%</option>
+<option value="rev">A is B% of what number?</option></select>
+<div class="grid2"><div><label id="lA">A</label><input id="A" type="number" inputmode="decimal" placeholder="e.g. 25"></div>
+<div><label id="lB">B</label><input id="B" type="number" inputmode="decimal" placeholder="e.g. 200"></div></div>
+<button class="btn" onclick="cnPct()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">Result</h2>
+<div id="lines"></div>
+<div class="total"><span>Answer</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>The six percentage formulas</h2><div class="card">
+<table><tr><th>Question</th><th>Formula</th><th>Example</th></tr>
+<tr><td>What is A% of B?</td><td>A ÷ 100 × B</td><td>25% of 200 = 50</td></tr>
+<tr><td>A is what % of B?</td><td>A ÷ B × 100</td><td>50 of 200 = 25%</td></tr>
+<tr><td>% change A → B</td><td>(B − A) ÷ |A| × 100</td><td>200 → 250 = +25%</td></tr>
+<tr><td>Increase A by B%</td><td>A × (1 + B ÷ 100)</td><td>200 + 25% = 250</td></tr>
+<tr><td>Decrease A by B%</td><td>A × (1 − B ÷ 100)</td><td>200 − 25% = 150</td></tr>
+<tr><td>A is B% of what?</td><td>A ÷ (B ÷ 100)</td><td>50 is 25% of 200</td></tr></table>
+<h3>Why a decrease then an increase does not return you to the start</h3>
+<p>Take 100, cut it by 20% to get 80, then add 20% back: 80 × 1.2 = 96, not 100. The second percentage is applied to a smaller base. To reverse a 20% decrease you need a 25% increase. This is the single most common percentage mistake, and it appears constantly in discount and salary-cut arithmetic.</p>
+<h3>Percentage points versus percent</h3>
+<p>If a rate moves from 5% to 7%, that is a rise of <b>two percentage points</b> but a <b>40% increase</b> in the rate itself. Both statements are true and they describe the same change — mixing them up is a common source of misleading claims in reporting.</p>
+<h3>Percent change when the starting value is negative</h3>
+<p>The formula divides by the absolute value of A, so a move from −50 to −25 registers as a 50% improvement rather than a −50% one. Percent change on quantities that cross zero is ambiguous by nature and is usually better reported as an absolute difference.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>How do I calculate a percentage increase?</summary><p>Subtract the old value from the new one, divide by the old value, then multiply by 100. From 200 to 250: (250 − 200) ÷ 200 × 100 = 25%.</p></details>
+<details><summary>Why doesn't reversing a percentage get me back to the original?</summary><p>Because the second percentage applies to a different base. A 20% fall needs a 25% rise to undo it, since the rise is calculated on the reduced figure.</p></details>
+<details><summary>What is the difference between percent and percentage points?</summary><p>A move from 5% to 7% is two percentage points, but a 40% increase in the rate. Percentage points measure the gap between two percentages; percent measures relative change.</p></details>
+<details><summary>How do I work out the original price before a discount?</summary><p>Use the reverse mode. If an item costs 80 after a 20% discount, it was 80 ÷ 0.80 = 100 originally.</p></details>
+<details><summary>Can percent change be more than 100%?</summary><p>Yes for increases — doubling is +100%, tripling is +200%. Decreases cannot go below −100%, because that would mean the value fell past zero.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/vat-gst-calculator/">🧾 VAT & GST Calculator</a><a href="/tools/compound-interest-calculator/">📈 Compound Interest</a><a href="/tools/loan-emi-calculator/">🏦 Loan & EMI Calculator</a></div>
+<div class="disc">General arithmetic tool. Results are rounded to four decimal places for display.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnPctLabels(){
+  var m=document.getElementById('mode').value;
+  var a=document.getElementById('lA'), b=document.getElementById('lB');
+  if(m==='of'){a.textContent='Percentage (A%)';b.textContent='Of this number (B)';}
+  else if(m==='isof'){a.textContent='This number (A)';b.textContent='As a percent of (B)';}
+  else if(m==='chg'){a.textContent='From (A)';b.textContent='To (B)';}
+  else if(m==='inc'){a.textContent='Starting number (A)';b.textContent='Increase by (B%)';}
+  else if(m==='dec'){a.textContent='Starting number (A)';b.textContent='Decrease by (B%)';}
+  else {a.textContent='This number (A)';b.textContent='Is this percent (B%)';}
+}
+function cnPct(){
+  var m=document.getElementById('mode').value, A=cn_n('A'), B=cn_n('B');
+  var ea=document.getElementById('A').value, eb=document.getElementById('B').value;
+  if(ea===''||eb===''){alert('Please fill in both fields.');return;}
+  var out, formula, extra='';
+  if(m==='of'){ out=A/100*B; formula=A+'% × '+B+' = '+A+' ÷ 100 × '+B; }
+  else if(m==='isof'){ if(B===0){alert('B cannot be zero.');return;} out=A/B*100; formula=A+' ÷ '+B+' × 100'; extra='%'; }
+  else if(m==='chg'){ if(A===0){alert('A cannot be zero for a percent change.');return;} out=(B-A)/Math.abs(A)*100; formula='('+B+' − '+A+') ÷ |'+A+'| × 100'; extra='%'; }
+  else if(m==='inc'){ out=A*(1+B/100); formula=A+' × (1 + '+B+'/100)'; }
+  else if(m==='dec'){ out=A*(1-B/100); formula=A+' × (1 − '+B+'/100)'; }
+  else { if(B===0){alert('B cannot be zero.');return;} out=A/(B/100); formula=A+' ÷ ('+B+' ÷ 100)'; }
+  var disp=(Math.round(out*10000)/10000).toLocaleString('en-US');
+  var lines='<div class="line"><span>Formula</span><span style="font-weight:400">'+formula+'</span></div>';
+  if(m==='chg'){
+    lines+='<div class="line"><span>Direction</span><span>'+(out>0?'Increase':(out<0?'Decrease':'No change'))+'</span></div>'
+      +'<div class="line"><span>Absolute difference</span><span>'+(B-A).toLocaleString('en-US')+'</span></div>';
+  }
+  if(m==='inc'||m==='dec'){
+    lines+='<div class="line"><span>Amount of change</span><span>'+(Math.round((out-A)*10000)/10000).toLocaleString('en-US')+'</span></div>';
+  }
+  cn_show(lines,0,'','');
+  document.getElementById('total').textContent=disp+extra;
+  cn_extra('');
+  document.getElementById('disc').innerHTML='Percentages are rounded to four decimal places for display.';
+}
+document.addEventListener('DOMContentLoaded',cnPctLabels);
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>

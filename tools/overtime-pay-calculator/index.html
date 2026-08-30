@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XXGD6ZV2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-2XXGD6ZV2F");
+</script>
+
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Overtime Pay Calculator (1.25×, 1.5×, 2× Multipliers) | Calcnate</title>
+<meta name="description" content="Calculate overtime pay from a monthly salary or hourly rate, with separate hours at 1.25×, 1.5× and 2× — covering time-and-a-half, double time and Gulf labour-law rates.">
+<link rel="canonical" href="https://calcnate.com/tools/overtime-pay-calculator/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="website"><meta property="og:title" content="Overtime Pay Calculator — any multiplier | Calcnate"><meta property="og:url" content="https://calcnate.com/tools/overtime-pay-calculator/">
+<meta name="theme-color" content="#0496AD">
+<link rel="alternate" hreflang="x-default" href="https://calcnate.com/tools/overtime-pay-calculator/">
+<link rel="alternate" hreflang="en" href="https://calcnate.com/tools/overtime-pay-calculator/">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Overtime Pay Calculator", "url": "https://calcnate.com/tools/overtime-pay-calculator/", "applicationCategory": "FinanceApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Calculate overtime pay from a monthly salary or hourly rate, with separate hours at 1.25×, 1.5× and 2× — covering time-and-a-half, double time and Gulf labour-law rates.", "publisher": {"@type": "Organization", "name": "Calcnate — a Servia Group project", "url": "https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is time and a half?", "acceptedAnswer": {"@type": "Answer", "text": "Pay at 1.5 times the normal hourly rate. It is the most common overtime premium worldwide and the statutory US rate for hours beyond 40 in a week."}}, {"@type": "Question", "name": "Is overtime calculated on basic or gross salary?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on the jurisdiction. Much of Europe and the US use total ordinary pay; several Gulf labour codes use basic salary only, excluding allowances. Using the wrong base is the single most common overtime error."}}, {"@type": "Question", "name": "How many hours before overtime starts?", "acceptedAnswer": {"@type": "Answer", "text": "Commonly 40 a week in the US and much of Europe, 48 across much of the Gulf and Asia. Some countries also trigger overtime on a daily threshold, typically 8 or 9 hours, regardless of the weekly total."}}, {"@type": "Question", "name": "Are managers entitled to overtime?", "acceptedAnswer": {"@type": "Answer", "text": "Often not. Most systems exempt genuine senior, supervisory or professional roles, but the test is the actual duties performed, not the job title. A title of 'manager' alone does not remove the entitlement."}}, {"@type": "Question", "name": "Can overtime be paid as time off instead?", "acceptedAnswer": {"@type": "Answer", "text": "In many countries yes, if the employee agrees — usually at the same premium, so 1.5 hours off for each overtime hour. Some jurisdictions require the employee's written consent."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Calcnate", "item": "https://calcnate.com/"}, {"@type": "ListItem", "position": 2, "name": "Global tools", "item": "https://calcnate.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Overtime Pay Calculator", "item": "https://calcnate.com/tools/overtime-pay-calculator/"}]}</script>
+<style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+body[dir=rtl]{font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+.nav{background:#fff;border-bottom:1px solid var(--border);padding:10px 16px;display:flex;gap:14px;align-items:center;font-size:14px;flex-wrap:wrap}
+.nav a{color:var(--deep);text-decoration:none;font-weight:700}.nav .brand{font-size:17px;color:var(--ink);margin-inline-end:auto}.nav .brand b{color:var(--teal)}
+.nav .lang{font-size:12px;color:var(--muted);font-weight:600}
+.top{background:linear-gradient(135deg,#0F766E,#0496AD);color:#fff;padding:26px 18px}
+.wrap{max-width:820px;margin:0 auto;padding:0 16px}
+.top h1{font-size:25px;letter-spacing:-.02em}.top p{opacity:.93;font-size:14px;margin-top:6px}
+.card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;margin:16px 0;box-shadow:0 1px 3px rgba(15,23,42,.04)}
+label{display:block;font-size:13px;font-weight:600;margin:14px 0 5px}
+.hint{font-weight:400;color:var(--muted);font-size:12px}
+input,select{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font-size:15px;background:#fff}
+input:focus,select:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.btn{margin-top:18px;width:100%;background:var(--teal);color:#fff;border:0;padding:14px;border-radius:10px;font-size:16px;font-weight:800;cursor:pointer}
+.btn:hover{background:var(--deep)}
+.res{display:none}
+.line{display:flex;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--border);font-size:15px}
+.line span:last-child{font-weight:700;font-variant-numeric:tabular-nums}
+.total{display:flex;justify-content:space-between;padding:16px 0 4px;font-size:20px;font-weight:800;color:var(--good)}
+.sub{font-size:13px;color:var(--muted)}
+h2{font-size:19px;margin:22px 0 8px}h3{font-size:16px;margin:16px 0 6px}
+p{margin:8px 0}
+.disc{font-size:12px;color:var(--muted);background:#FFFBEB;border:1px solid #FDE68A;border-radius:10px;padding:12px;margin-top:14px;line-height:1.5}
+.actions{display:flex;gap:10px;margin-top:14px}
+.actions button{flex:1;padding:11px;border-radius:10px;border:1px solid var(--border);background:#fff;font-weight:700;cursor:pointer;font-size:14px}
+details{margin-top:10px;border:1px solid var(--border);border-radius:10px;padding:2px 14px;background:#fff}
+summary{font-weight:700;padding:12px 0;cursor:pointer;font-size:14px}
+details p{padding:0 0 12px;font-size:14px;color:#334155;margin:0}
+.rel{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.rel a{background:#fff;border:1px solid var(--border);border-radius:999px;padding:6px 13px;font-size:13px;color:var(--deep);text-decoration:none}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:26px;line-height:1.9}
+footer a{color:var(--deep)}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+td,th{border:1px solid var(--border);padding:8px 10px;text-align:start}th{background:var(--bg)}
+article{background:#fff;border:1px solid var(--border);border-radius:16px;padding:22px;margin:16px 0}
+article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article li{margin:5px 0}
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.tool{background:#fff;border:1px solid var(--border);border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(15,23,42,.04)}
+.tool:hover{box-shadow:0 4px 14px rgba(4,150,173,.15)}
+.tool .ic{font-size:24px}.tool h3{font-size:15px;margin:6px 0 3px}.tool p{font-size:12.5px;color:var(--muted);margin:0}
+.tool.soon{opacity:.6}
+.crumb{font-size:12px;color:var(--muted);padding:10px 0}.crumb a{color:var(--deep);text-decoration:none}
+</style>
+</head>
+<body>
+<nav class="nav"><a class="brand" href="/">calc<b>nate</b></a><a href="/tools/">Global tools</a><a href="/#countries">Countries</a><a href="/about/">About</a></nav>
+<div class="top"><div class="wrap"><h1>⏱️ Overtime Pay Calculator</h1><p>Work out overtime from a salary or an hourly rate, at whichever multipliers your law or contract uses.</p></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">Home</a> › <a href="/tools/">Global tools</a> › Overtime Pay Calculator</div>
+<div class="card">
+<h2 style="margin-top:0">Enter your details</h2><p class="sub">Enter hours against each multiplier that applies. Leave the rest blank.</p>
+<label>Currency</label><select id="cur"><option>USD</option><option>EUR</option><option>GBP</option><option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>BHD</option><option>OMR</option><option>INR</option><option>PKR</option><option>PHP</option><option>BDT</option><option>LKR</option><option>NPR</option><option>EGP</option><option>NGN</option><option>KES</option><option>ZAR</option><option>AUD</option><option>CAD</option><option>NZD</option><option>SGD</option><option>MYR</option><option>IDR</option><option>THB</option><option>CNY</option><option>JPY</option><option>TRY</option><option>BRL</option><option>MXN</option><option>CHF</option><option>SEK</option><option>NOK</option><option>PLN</option></select><div class="grid2"><div><label>Pay basis</label><select id="basis"><option value="month">Monthly salary</option><option value="hour">Hourly rate</option></select></div>
+<div><label>Amount</label><input id="amt" type="number" inputmode="decimal" placeholder="e.g. 6000"></div></div>
+<div class="grid2"><div><label>Standard hours per week</label><input id="hpw" type="number" inputmode="decimal" placeholder="48"></div>
+<div><label>Normal hours worked</label><input id="nh" type="number" inputmode="decimal" placeholder="e.g. 160"></div></div>
+<label>Overtime hours at 1.25× <span class="hint">— e.g. UAE daytime overtime</span></label><input id="ot125" type="number" inputmode="decimal" placeholder="e.g. 10">
+<label>Overtime hours at 1.5× <span class="hint">— time-and-a-half / night or rest-day work</span></label><input id="ot150" type="number" inputmode="decimal" placeholder="e.g. 6">
+<label>Overtime hours at 2× <span class="hint">— double time / public holidays</span></label><input id="ot200" type="number" inputmode="decimal" placeholder="e.g. 4">
+<button class="btn" onclick="cnOT()">Calculate →</button>
+</div>
+<div class="card res" id="res">
+<h2 style="margin-top:0">Your pay for the period</h2>
+<div id="lines"></div>
+<div class="total"><span>Total pay</span><span id="total">0</span></div>
+<div id="extra"></div>
+<div class="actions"><button onclick="window.print()">🖨️ Save / print</button><button onclick="cn_share()">🔗 Copy summary</button></div>
+<div class="disc" id="disc"></div>
+</div>
+<h2>How overtime pay is calculated</h2><div class="card">
+<p>Overtime is your ordinary hourly rate multiplied by a premium. The two things that vary between countries are <b>how the hourly rate is derived from a salary</b> and <b>which multiplier applies when</b>.</p>
+<h3>Deriving the hourly rate from a monthly salary</h3>
+<p style="text-align:center;font-size:16px"><b>hourly = (monthly salary × 12) ÷ (standard hours per week × 52)</b></p>
+<p class="sub">On a 6,000 monthly salary and a 48-hour week: (6,000 × 12) ÷ (48 × 52) = 28.85 an hour.</p>
+<h3>Common multipliers worldwide</h3>
+<table><tr><th>Situation</th><th>Typical multiplier</th></tr>
+<tr><td>Standard overtime (US, UK, much of the EU)</td><td>1.5× — "time and a half"</td></tr>
+<tr><td>UAE daytime overtime</td><td>1.25× of basic</td></tr>
+<tr><td>UAE overtime between 22:00 and 04:00</td><td>1.5× of basic</td></tr>
+<tr><td>Saudi Arabia overtime</td><td>1.5× of wage</td></tr>
+<tr><td>Rest day worked (many jurisdictions)</td><td>1.5× plus a compensatory day</td></tr>
+<tr><td>Public holidays / Sundays</td><td>2× — "double time"</td></tr></table>
+<p class="sub">These are the common defaults, not a substitute for your own contract or labour code — many collective agreements are more generous, and several countries base the premium on <i>basic</i> salary rather than gross.</p>
+<h3>Basic versus gross</h3>
+<p>This matters more than the multiplier. Several Gulf labour laws compute overtime on <b>basic</b> salary, excluding housing and transport allowances — so an employee on 6,000 gross with 3,600 basic has overtime calculated on 3,600. Enter whichever figure your law uses.</p></div>
+<h2>Frequently asked questions</h2>
+<details open><summary>What is time and a half?</summary><p>Pay at 1.5 times the normal hourly rate. It is the most common overtime premium worldwide and the statutory US rate for hours beyond 40 in a week.</p></details>
+<details><summary>Is overtime calculated on basic or gross salary?</summary><p>It depends on the jurisdiction. Much of Europe and the US use total ordinary pay; several Gulf labour codes use basic salary only, excluding allowances. Using the wrong base is the single most common overtime error.</p></details>
+<details><summary>How many hours before overtime starts?</summary><p>Commonly 40 a week in the US and much of Europe, 48 across much of the Gulf and Asia. Some countries also trigger overtime on a daily threshold, typically 8 or 9 hours, regardless of the weekly total.</p></details>
+<details><summary>Are managers entitled to overtime?</summary><p>Often not. Most systems exempt genuine senior, supervisory or professional roles, but the test is the actual duties performed, not the job title. A title of 'manager' alone does not remove the entitlement.</p></details>
+<details><summary>Can overtime be paid as time off instead?</summary><p>In many countries yes, if the employee agrees — usually at the same premium, so 1.5 hours off for each overtime hour. Some jurisdictions require the employee's written consent.</p></details>
+<div class="rel"><a href="/tools/">← All global tools</a><a href="/tools/salary-converter/">💼 Salary Converter</a><a href="/tools/working-days-calculator/">📅 Working Days Calculator</a><a href="/uae/gratuity-calculator/">🇦🇪 UAE Gratuity Calculator</a></div>
+<div class="disc">Estimate only, not legal advice. Overtime rules, thresholds and the basic-versus-gross question vary by country and contract. Confirm with your labour authority.</div>
+</div>
+<script>
+function cn_n(id){var e=document.getElementById(id);if(!e)return 0;var v=parseFloat(e.value);return isNaN(v)?0:v;}
+function cn_money(cur,n){return cur+' '+(Math.round(n)).toLocaleString('en-US');}
+function cn_show(lines,total,cur,note){
+  document.getElementById('lines').innerHTML=lines;
+  document.getElementById('total').textContent=cn_money(cur,total);
+  document.getElementById('disc').innerHTML=note||'';
+  var r=document.getElementById('res');r.style.display='block';r.scrollIntoView({behavior:'smooth'});
+  window._cnsum=document.getElementById('res').innerText;
+}
+function cn_share(){if(window._cnsum&&navigator.clipboard){navigator.clipboard.writeText(window._cnsum);alert('Summary copied.');}}
+function cn_extra(h){var e=document.getElementById('extra');if(e)e.innerHTML=h||'';}
+function cnOT(){
+  var cur=document.getElementById('cur').value;
+  var basis=document.getElementById('basis').value, amt=cn_n('amt');
+  var hpw=cn_n('hpw')||48, nh=cn_n('nh');
+  var a=cn_n('ot125'), b=cn_n('ot150'), c=cn_n('ot200');
+  if(amt<=0){alert('Enter your monthly salary or hourly rate.');return;}
+  var hourly = (basis==='hour') ? amt : (amt*12)/(hpw*52);
+  if(basis==='month'&&nh<=0) nh = hpw*52/12;
+  var basePay = hourly*nh;
+  var p1=hourly*1.25*a, p2=hourly*1.5*b, p3=hourly*2*c;
+  var total=basePay+p1+p2+p3;
+  var lines='<div class="line"><span>Effective hourly rate</span><span>'+cn_money(cur,hourly)+'</span></div>'
+   +'<div class="line"><span>Normal hours ('+Math.round(nh)+')</span><span>'+cn_money(cur,basePay)+'</span></div>';
+  if(a>0) lines+='<div class="line"><span>Overtime '+a+'h @ 1.25×</span><span>'+cn_money(cur,p1)+'</span></div>';
+  if(b>0) lines+='<div class="line"><span>Overtime '+b+'h @ 1.5×</span><span>'+cn_money(cur,p2)+'</span></div>';
+  if(c>0) lines+='<div class="line"><span>Overtime '+c+'h @ 2×</span><span>'+cn_money(cur,p3)+'</span></div>';
+  lines+='<div class="line"><span>Total overtime pay</span><span>'+cn_money(cur,p1+p2+p3)+'</span></div>';
+  cn_show(lines,total,cur,basis==='month'?'Hourly rate derived from your monthly salary: (salary × 12) ÷ ('+hpw+' × 52). Many labour codes use a similar divisor — check yours.':'Based on the hourly rate you entered.');
+  cn_extra('');
+}
+</script>
+<footer>© Calcnate — a Servia Group project · <a href="/about/">About</a> · <a href="/methodology/">Methodology</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></footer>
+</body>
+</html>
