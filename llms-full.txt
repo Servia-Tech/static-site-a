@@ -1,0 +1,1295 @@
+# Calcnate: calculator reference
+
+> The formulas, rules, sources and FAQs from every English calculator page on calcnate.com, extracted from the live pages. Estimates for guidance only, not legal or financial advice. Index: https://calcnate.com/llms.txt
+
+## United Arab Emirates
+
+### UAE Final Settlement Calculator
+URL: https://calcnate.com/uae/final-settlement-calculator/
+Your complete full & final figure — gratuity plus leave encashment, notice pay and pending salary, minus deductions. Per UAE Federal Decree-Law 33/2021.
+#### How it is calculated
+Service | Entitlement
+Gratuity | 21 days/yr (first 5), 30 days/yr after — on basic
+Leave encashment | Unused annual-leave days × basic daily wage
+Notice pay | Notice days × gross daily wage (if terminated without notice)
+Pending salary | Unpaid worked days × gross daily wage
+Leave is encashed at basic wage. Everything must be paid within 14 days of contract end. Source: UAE Federal Decree-Law 33/2021 .
+#### Questions
+Q: What is included in a UAE full and final settlement?
+A: Gratuity, encashment of unused annual leave (at basic wage), pending unpaid salary, notice-period pay if the employer ended the contract without notice, minus documented deductions like loans or advances.
+Q: Is annual leave encashed on basic or gross salary?
+A: Unused annual leave is encashed at the basic wage.
+Q: When must the final settlement be paid?
+A: Within 14 days of the contract end date.
+Q: Do I lose gratuity if I resign?
+A: No — since Decree-Law 33/2021, resignation no longer reduces gratuity for anyone with over 1 year of service.
+
+### Gratuity Calculator UAE
+URL: https://calcnate.com/uae/gratuity-calculator/
+End-of-service gratuity per MOHRE rules — UAE Federal Decree-Law No. 33 of 2021. Same result whether you resign or are terminated after 1 year.
+#### How it is calculated
+Service | Entitlement
+First 5 years | 21 days of basic salary per year
+Beyond 5 years | 30 days of basic salary per year
+Under 1 year | No gratuity
+Maximum | 2 years' total wages
+Daily wage = basic monthly salary ÷ 30. Gratuity is on BASIC salary only (allowances excluded). Source: UAE Federal Decree-Law 33/2021 .
+#### Questions
+Q: Do I get full gratuity if I resign in the UAE?
+A: Yes. Under Federal Decree-Law 33/2021 (in force since Feb 2022), resignation no longer reduces gratuity. Anyone with more than one year of continuous service receives the full calculation whether they resign or are terminated.
+Q: Is UAE gratuity on basic or gross salary?
+A: Basic salary only. Housing, transport and other allowances are excluded.
+Q: Does this apply in free zones like JAFZA or DMCC?
+A: Yes — most free zones follow the federal labour law. DIFC and ADGM are exceptions with their own regimes (DIFC uses the DEWS savings scheme).
+Q: What is the maximum UAE gratuity?
+A: Total gratuity cannot exceed two years' worth of wages.
+Q: When must my gratuity be paid?
+A: All end-of-service dues must be paid within 14 days of the contract end date.
+
+### UAE Leave Encashment Calculator
+URL: https://calcnate.com/uae/leave-encashment-calculator/
+Cash out your unused UAE annual leave — encashment is on your BASIC salary (not gross), per Federal Decree-Law 33/2021, Article 29 and Cabinet Resolution 1/2022.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 30 calendar days/year after 1 year of service; 2 days/month for 6 months-1 year
+Encashment on end of service | (Basic monthly salary ÷ 30) × unused days — BASIC salary only
+Leave taken during employment | Paid at full wage (basic + allowances) — different from encashment
+Carry-over | Up to half of unused leave may carry to the next year, or be cashed by agreement
+Encashment on termination uses BASIC salary even though leave taken during employment is paid at full wage — a common point of confusion. Cross-checked against U.AE government portal . Source: Khaleej Times (legal) .
+#### Questions
+Q: Is UAE leave encashment on basic or gross salary?
+A: Basic salary only — even though leave taken while still employed is paid at your full wage (basic plus allowances).
+Q: How many annual leave days do I earn in the UAE?
+A: 30 calendar days per year once you pass 1 year of service; 2 calendar days per month if you have 6 months to 1 year of service.
+Q: Can I carry my leave over to next year?
+A: Up to half of your unused leave can carry over, or you can agree with your employer to be paid cash for the carried-forward portion.
+Q: When is leave encashed?
+A: Typically at the end of your employment for any unused balance — see our UAE Final Settlement Calculator for the full end-of-service picture.
+
+### UAE Maternity Leave Calculator
+URL: https://calcnate.com/uae/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in the UAE and what it's worth — per Federal Decree-Law No. 33 of 2021, Article 30.
+#### How it is calculated
+Service | Entitlement
+Total maternity leave | 60 calendar days
+First 45 days | Full pay (100%)
+Remaining 15 days | Half pay (50%)
+Minimum service required | None — applies from day one of employment
+If newborn is sick/disabled | +30 days full pay, +30 further days unpaid (with medical certificate)
+Nursing breaks after return | Up to 1 hour/day, fully paid, for 6 months
+Who pays | Employer, in full
+Also available: 45 days unpaid leave for pregnancy/childbirth-related illness, on a medical certificate. Source: UAE Federal Decree-Law 33/2021 (Art. 30) .
+#### Questions
+Q: How many days of paid maternity leave do I get in the UAE?
+A: 60 calendar days total: the first 45 days at full (100%) pay, and the remaining 15 days at half (50%) pay — under Article 30 of Federal Decree-Law No. 33 of 2021.
+Q: Do I need a minimum length of service to qualify for UAE maternity leave?
+A: No — it applies from your very first day of employment. There's no tenure requirement, unlike some other UAE benefits.
+Q: What if my baby is born sick or with a disability?
+A: You're entitled to a further 30 days of fully paid leave, plus an additional 30 days unpaid, to care for a sick or disabled newborn, with a medical certificate.
+Q: Do I get paid breaks for nursing after I return to work?
+A: Yes — up to 1 hour per day, fully paid, for 6 months after you return from maternity leave.
+Q: Who pays for UAE maternity leave — the employer or the government?
+A: Your employer pays it in full. There's no separate government or social-insurance maternity fund for the private sector in the UAE.
+
+### UAE Notice Period Calculator
+URL: https://calcnate.com/uae/notice-period-calculator/
+How much notice you owe — or are owed — under UAE Federal Decree-Law 33/2021, including the probation-period sub-rules.
+#### How it is calculated
+Service | Entitlement
+Standard notice (post-probation) | 30-90 days, as agreed in your contract — same for employer and employee (Art. 43)
+Probation — employer ends it | At least 14 days notice
+Probation — you resign to join another UAE employer | At least 30 days (1 month) notice
+Probation — you resign and leave the UAE / no new local job | At least 14 days notice
+If notice is not served | Either side may pay the other's salary for the unserved notice days instead
+Notice must be in writing. During notice the contract stays fully in force — full pay and duties continue. Cross-checked against MOHRE (Federal Decree-Law No. 33 of 2021) . Source: Chambers and Partners .
+#### Questions
+Q: What is the minimum notice period in the UAE?
+A: 30 days for a standard (post-probation) contract, and it cannot exceed 90 days — the exact figure is whatever your contract states within that range, per Article 43 of Federal Decree-Law 33/2021.
+Q: Is the UAE notice period the same for employer and employee?
+A: Yes — Article 43 requires the same notice period from both sides for a standard contract.
+Q: What is the UAE probation notice period?
+A: If your employer ends it, at least 14 days. If you resign to join another UAE employer, at least 30 days. If you resign and are leaving the UAE or not taking new local work, at least 14 days (Article 44).
+Q: Can my employer make me leave immediately and pay me instead of serving notice?
+A: Yes — either party can waive the notice period by paying the other side's salary for the remaining notice days.
+Q: Do I still get paid during my notice period?
+A: Yes, in full, and your employer must give you one unpaid day off per week (with 3 days notice) to search for a new job.
+
+### UAE Probation Period Calculator
+URL: https://calcnate.com/uae/probation-period-calculator/
+How much notice is legally required to end employment during probation in the UAE — the rule differs depending on who's ending it and why. Per Federal Decree-Law No. 33 of 2021, Article 9.
+#### How it is calculated
+Service | Entitlement
+Maximum probation length | 6 months from your actual start date (no extension; cannot be repeated with the same employer)
+Employer ends employment during probation | ≥14 days' notice
+You resign to join another UAE employer | ≥30 days' (1 month) notice
+You resign to leave your job / the country | ≥14 days' notice
+Breach of notice | The breaching party owes wages for the notice shortfall
+Gratuity during probation | None — gratuity requires 1+ year of service (Art. 51); probation time counts toward that year if employment continues
+Notice pay in lieu is estimated on your monthly salary ÷ 30. Your contract may specify a longer notice period than the statutory minimum. Source: UAE Federal Decree-Law 33/2021 (Art. 9) .
+#### Questions
+Q: How long can probation last in the UAE?
+A: Up to 6 months from your actual start date. It cannot be extended, and you cannot be placed on probation twice by the same employer.
+Q: How much notice do I need to give if I resign during UAE probation?
+A: It depends: 30 days' notice if you're joining another employer inside the UAE, or 14 days' notice if you're leaving your job entirely (not joining another UAE employer) — under Article 9 of Federal Decree-Law No. 33/2021.
+Q: How much notice does my employer need to give to end my probation?
+A: At least 14 days' written notice, the same as if you were resigning to leave the country.
+Q: Do I get gratuity if I'm let go during UAE probation?
+A: No — end-of-service gratuity under UAE law only starts accruing after you complete 1 full year of continuous service (Article 51). A probation period (max 6 months) never reaches that threshold on its own.
+Q: What happens if my employer doesn't give me proper notice?
+A: Whichever party fails to give the required notice owes the other side wages for the shortfall in the notice period.
+
+### UAE Unemployment Insurance (ILOE) Calculator
+URL: https://calcnate.com/uae/unemployment-insurance-calculator/
+Check your eligibility and estimate your Involuntary Loss of Employment (ILOE) insurance payout — separate from end-of-service gratuity. Per Federal Decree-Law No. 13 of 2022.
+#### How it is calculated
+Service | Entitlement
+Category A — basic salary ≤ AED 16,000 | Premium AED 5/month · payout capped at AED 10,000/month
+Category B — basic salary > AED 16,000 | Premium AED 10/month · payout capped at AED 20,000/month
+Monthly compensation | 60% of your average basic salary over the last 6 months (subject to the category cap above)
+Maximum duration | Up to 3 months per claim, or until you find new work — whichever comes first
+Lifetime aggregate cap | Total ILOE payouts across your entire UAE working life cannot exceed 12 monthly benefits, no matter how many separate claims
+Minimum subscription | At least 12 consecutive months of paid premiums before you can claim
+Claim window | Must be submitted within 30 days of the employment relationship ending
+First payment | Typically disbursed within about 14 days of an approved claim
+Only involuntary job loss qualifies — resignation and termination for disciplinary reasons/gross misconduct are excluded. Investors/business owners, domestic workers, workers under 18, and retirees drawing a pension who take new work cannot subscribe. Rates last verified July 2026 — always confirm at iloe.ae, as scheme parameters can be revised administratively. Source: Official ILOE portal (iloe.ae) & U.AE government portal .
+#### Questions
+Q: Who is eligible to claim UAE unemployment insurance (ILOE)?
+A: You must have subscribed and paid ILOE premiums for at least 12 consecutive months, lost your job involuntarily (not by resignation or disciplinary termination), and not be in an excluded category (business owner/investor, domestic worker, under 18, or a pensioned retiree in new employment). You must also file your claim within 30 days of your employment ending.
+Q: How much does ILOE pay per month?
+A: 60% of your average basic salary over your last 6 months of work — capped at AED 10,000/month if you're a Category A subscriber (basic salary AED 16,000 or below) or AED 20,000/month if you're Category B (basic salary above AED 16,000).
+Q: What is Category A vs Category B in ILOE?
+A: Category A covers a basic salary of AED 16,000 or below (premium AED 5/month, payout capped at AED 10,000/month). Category B covers a basic salary above AED 16,000 (premium AED 10/month, payout capped at AED 20,000/month). You're placed in whichever category matches your basic salary.
+Q: How long does ILOE pay out for?
+A: Up to 3 consecutive months per claim, or until you start new employment — whichever happens first. Across your entire working life in the UAE, total ILOE payments (from any number of claims) cannot exceed 12 monthly benefits in aggregate.
+Q: Can I claim ILOE if I resign?
+A: No. ILOE only covers involuntary loss of employment — redundancy, company closure, non-renewal of contract by the employer and similar. Voluntary resignation and termination for disciplinary reasons or gross misconduct are not covered.
+Q: Is ILOE the same as my end-of-service gratuity?
+A: No — they're completely separate. Gratuity is an end-of-service benefit paid by your employer based on your years of service (see our UAE Gratuity Calculator ). ILOE is a government-mandated unemployment insurance payout, funded by your own small monthly premium, that only applies if you lose your job involuntarily. You can be entitled to both at the same time.
+
+## Saudi Arabia
+
+### Saudi End of Service Calculator
+URL: https://calcnate.com/saudi/end-of-service-calculator/
+End-of-service award (ESB) per Saudi Labour Law — half a month's wage per year for the first 5 years, a full month after, with resignation reductions.
+#### How it is calculated
+Service | Entitlement
+First 5 years | ½ month wage per year
+Beyond 5 years | 1 month wage per year
+Resign 2–5 yrs | ⅓ of the award
+Resign 5–10 yrs | ⅔ of the award
+Resign 10+ yrs / any termination | Full award
+Calculated on the last wage (basic + regular allowances). Pick 'Resigned' to apply the reduction tiers. Source: Saudi HRSD .
+#### Questions
+Q: How is end of service calculated in Saudi Arabia?
+A: Half a month's wage for each of the first five years and a full month's wage for each year beyond five, based on your last wage. Resignation reduces the award unless you have 10+ years.
+Q: Do I get end of service if I resign in Saudi Arabia?
+A: Yes, but reduced: nothing under 2 years, one-third for 2–5 years, two-thirds for 5–10 years, and the full amount at 10+ years. Employer termination always pays the full award.
+Q: Is Saudi ESB on basic or total salary?
+A: On the last wage including regular allowances, which is broader than the UAE's basic-only rule.
+Q: Is there a cap on Saudi end of service?
+A: No statutory ceiling on the total award.
+
+### Saudi Leave Encashment Calculator
+URL: https://calcnate.com/saudi/leave-encashment-calculator/
+Cash out your unused Saudi annual leave — encashment is mandatory on end of service, on your last actual wage, per Labour Law Articles 109 and 111.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 21 days/year for under 5 years of service; 30 days/year at 5+ years
+Encashment during employment | Not allowed — leave cannot be waived or exchanged for cash while still working (Art. 109)
+Encashment on end of service | Mandatory — (last wage ÷ 30) × unused days (Art. 111)
+Wage basis | Actual wage — basic wage plus regular allowances (Art. 2)
+Article 109 specifically bans cashing out leave while still employed — encashment only becomes payable once employment ends, under the separate Article 111. Cross-checked against payrollmiddleeast.com . Source: HRSD .
+#### Questions
+Q: How much annual leave do Saudi employees earn?
+A: 21 days per year with under 5 years of service, rising to 30 days per year once you complete 5 consecutive years with the same employer.
+Q: Can I cash out my leave while still working in Saudi Arabia?
+A: No — Article 109 prohibits waiving or exchanging leave for money during employment. It can only be encashed when your employment ends (Article 111).
+Q: What salary is used for Saudi leave encashment?
+A: Your actual wage — basic wage plus regular cash allowances — the same broad definition used for end-of-service benefits.
+Q: Can I postpone my leave instead?
+A: Yes, by mutual agreement with your employer, for up to 3 years.
+
+### Saudi Maternity Leave Calculator
+URL: https://calcnate.com/saudi/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in Saudi Arabia under the current (2025-amended) Labor Law — 12 weeks at full pay, no minimum service required.
+#### How it is calculated
+Service | Entitlement
+Total paid maternity leave | 12 weeks (84 days) at full (100%) pay
+Mandatory post-delivery portion | At least 6 weeks
+Can start before delivery | Up to 4 weeks before the expected date, on medical certificate
+Minimum service required | None — the pre-2025 tenure tiers were removed
+If newborn is sick / needs continuous care | +1 further month fully paid, plus another month unpaid
+Unpaid extension (any case) | 1 further month available
+Who pays | Employer, in full
+This reflects the CURRENT law (effective ~Feb 2025), which increased leave from the previous 10 weeks and removed the old tenure-based pay tiers (full pay ≥3yrs / half pay 1–3yrs / unpaid Saudi Labor Law, Article 151, as amended by Royal Decree M/44 of 1446H (effective ~Feb 2025) .
+#### Questions
+Q: How many weeks of maternity leave do I get in Saudi Arabia?
+A: 12 weeks (84 days), all at full (100%) pay — increased from 10 weeks under an amendment to Article 151 effective around February 2025.
+Q: Do I need a minimum length of service to get full pay in Saudi Arabia?
+A: No, not anymore. The 2025 amendment removed the previous tenure-based tiers (which used to give full pay only at 3+ years of service, half pay for 1–3 years, and unpaid under 1 year). Now it's 12 weeks full pay regardless of tenure.
+Q: How much of Saudi maternity leave must be taken after delivery?
+A: At least 6 weeks must be taken immediately after the birth. The rest of your 12 weeks can be started up to 4 weeks before your expected delivery date, on a medical certificate.
+Q: What if my baby needs special care in Saudi Arabia?
+A: You can get a further month fully paid, plus an additional month unpaid, if your newborn is sick or has special needs requiring your continuous care.
+Q: Is Saudi maternity leave paid by the employer or GOSI?
+A: Your employer pays your salary during the leave. Saudi's General Organization for Social Insurance (GOSI) has separately introduced a maternity-related benefit under its newer social-insurance regime for registered contributors — but the employer-paid salary under the Labor Law is the core entitlement covered here.
+
+### Saudi Notice Period Calculator
+URL: https://calcnate.com/saudi/notice-period-calculator/
+Notice period for ending an indefinite Saudi employment contract under the amended Labour Law Article 75, in force since 18 February 2025.
+#### How it is calculated
+Service | Entitlement
+You resign | 30 days notice (any pay frequency)
+Employer ends it — monthly-paid worker | 60 days notice
+Employer ends it — other pay frequency | 30 days notice
+If notice is not served | The party at fault pays the other's wage for the notice period
+Applies to indefinite-term contracts. Wage basis follows Saudi Labour Law Article 2 (basic wage plus regular cash allowances) and is calculated on a 30-day month. Cross-checked against King & Spalding . Source: Dentons .
+#### Questions
+Q: How long is the notice period in Saudi Arabia?
+A: Since the amendment effective 18 February 2025: 30 days if you resign, or if your employer ends a non-monthly-paid contract; 60 days if your employer ends a monthly-paid contract.
+Q: Did the Saudi notice period change recently?
+A: Yes. Before the amendment, both sides owed 60 days (monthly-paid) or 30 days (other). The employee side was reduced to a flat 30 days regardless of pay frequency.
+Q: What happens if the notice period is not honoured?
+A: The party who fails to give proper notice must compensate the other with wages equal to the notice period.
+Q: What if my resignation gets no employer response?
+A: If your employer does not respond within 30 days, your resignation is automatically accepted — though they may postpone acceptance up to 60 days with written justification.
+
+### Saudi Probation Period Calculator
+URL: https://calcnate.com/saudi/probation-period-calculator/
+How probation works in Saudi Arabia under the current (2025-amended) Labor Law — and why the notice period is set by your contract, not a fixed number in the law.
+#### How it is calculated
+Service | Entitlement
+Maximum probation length | Up to 180 days, set directly in the contract (since the Feb 2025 amendment — previously 90 days by default, extendable to 180 only via a separate agreement)
+Termination rights | Mutual by default since the 2025 amendment (previously could be reserved to one party only)
+Statutory notice period | None fixed by law — governed by your employment contract
+Gratuity/compensation on probation termination | None owed by either party
+Repeating probation | Not allowed with the same employer for the same role (exceptions: a different role, or 6+ months since prior employment ended)
+This reflects the CURRENT law after the February 2025 amendment. Before that, probation defaulted to 90 days (extendable to 180 by separate written agreement) and termination rights could be one-sided if the contract said so. Source: Saudi Labor Law, Article 53, as amended by Royal Decree M/44 of 1446H (effective ~Feb 2025) .
+#### Questions
+Q: How long can probation last in Saudi Arabia?
+A: Up to 180 days, which can now be set directly in the employment contract from the start (since the amendment effective around February 2025, under Royal Decree M/44). Before that amendment, the default was 90 days, extendable to 180 only through a separate written agreement.
+Q: How much notice do I need to give during probation in Saudi Arabia?
+A: Saudi Labor Law itself does not fix a mandatory notice period for ending employment during probation — this is left to your employment contract. Check what your contract says; if it's silent, no statutory minimum applies.
+Q: Can only my employer end my probation in Saudi Arabia, or can I as well?
+A: Since the 2025 amendment, termination rights during probation are mutual by default for both employer and employee — previously, a contract could reserve this right to just one side.
+Q: Do I get gratuity if let go during Saudi probation?
+A: No — no end-of-service gratuity or other compensation is owed by either party for a termination that happens during the probation period.
+Q: Can I be put on probation twice by the same employer in Saudi Arabia?
+A: Not for the same role — unless you're taking on a different position, or at least 6 months have passed since your previous employment with that employer ended.
+
+## Qatar
+
+### Qatar Gratuity Calculator
+URL: https://calcnate.com/qatar/end-of-service-calculator/
+End-of-service gratuity per Qatar Labour Law — at least 3 weeks (21 days) of basic wage for every completed year of service.
+#### How it is calculated
+Service | Entitlement
+Per year of service | At least 3 weeks (21 days) basic wage
+Minimum service | 1 year
+Basis | Last basic wage
+Resignation | Same entitlement once 1+ year
+21 days is the statutory minimum; your contract may give more. Excludes allowances. Source: Qatar Labour Law (Art. 54) .
+#### Questions
+Q: How is gratuity calculated in Qatar?
+A: At least three weeks (21 days) of your last basic wage for each completed year of service, once you have worked at least one year. Your contract can provide more but not less.
+Q: Does resignation affect Qatar gratuity?
+A: No. Once you complete one year, you receive the gratuity whether you resign or are terminated.
+Q: Is Qatar gratuity on basic or total pay?
+A: On the basic wage — allowances are excluded.
+Q: What is the minimum service for Qatar gratuity?
+A: One completed year of continuous service.
+
+### Qatar Leave Encashment Calculator
+URL: https://calcnate.com/qatar/leave-encashment-calculator/
+Cash out your unused Qatar annual leave on your basic wage, per Labour Law Article 79.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 3 weeks (21 days)/year for under 5 years of service; 4 weeks (28 days)/year at 5+ years
+Wage basis | Basic wage, as applicable on the date the leave falls due
+Carry-over | Up to half of unused leave may be carried to the next year by request
+Encashment | Compensation in lieu of leave accrued but not taken
+Applies once an employee has completed 1 full year of continuous service; leave before that accrues on a pro-rata basis. Cross-checked against Ministry of Labour, Qatar (official Facebook post citing Article 79) . Source: Al Meezan — Qatar Legal Portal .
+#### Questions
+Q: How much annual leave do Qatar employees earn?
+A: 3 weeks (21 days) per year with under 5 years of service, rising to 4 weeks (28 days) per year once you complete 5 years, under Article 79 of the Labour Law.
+Q: What salary is leave encashment based on?
+A: Your basic wage, as it stood on the date the leave became due.
+Q: Can unused leave carry over in Qatar?
+A: Yes — up to half of it can be carried forward to the next year on request.
+Q: When is leave encashed?
+A: When it is accrued but not taken — most commonly settled as part of your final dues when employment ends.
+
+### Qatar Maternity Leave Calculator
+URL: https://calcnate.com/qatar/maternity-leave-calculator/
+How much paid maternity leave private-sector employees are entitled to in Qatar, and what it's worth — per Labour Law No. 14 of 2004, Article 96.
+#### How it is calculated
+Service | Entitlement
+Total paid maternity leave | 50 days at full (100%) pay
+Minimum post-delivery portion | At least 35 days must fall after delivery
+Eligibility | More than 1 year of continuous service with the employer
+Further unpaid leave if unwell | Up to 60 days, with medical certificate
+Job protection | Termination during maternity leave is prohibited (Art. 98)
+Who pays | Employer, in full
+Sector | Private sector, under Labour Law 14/2004 — a separate 2025 law gives public-sector staff 3 months
+This covers PRIVATE-sector employees. Public-sector employees are covered by a separate, more generous law (Law No. 25 of 2025 amending the Civil Human Resources Law) not calculated here. Source: Qatar Labour Law No. 14/2004 (Art. 96, Art. 98) .
+#### Questions
+Q: How many days of paid maternity leave do I get in Qatar?
+A: 50 days at full pay, under Article 96 of Labour Law No. 14/2004, for private-sector employees with more than 1 year of continuous service.
+Q: What's the eligibility requirement for Qatar maternity leave?
+A: You need more than 1 year of continuous service with your employer. Without that, this specific paid entitlement under Article 96 does not apply.
+Q: How much of Qatar's maternity leave must be after delivery?
+A: At least 35 of the 50 days must fall after the birth.
+Q: Does this apply to public-sector employees in Qatar too?
+A: No — public-sector employees are covered by a separate, more generous law (a 2025 amendment to the Civil Human Resources Law giving 3 months, up to 6 for twins/disability). This calculator covers private-sector employees under Labour Law 14/2004.
+Q: Can I be fired while on maternity leave in Qatar?
+A: No — Article 98 of the Labour Law separately prohibits termination during maternity leave.
+
+### Qatar Notice Period Calculator
+URL: https://calcnate.com/qatar/notice-period-calculator/
+Notice period for ending an employment contract in Qatar under Labour Law Article 49, for workers paid monthly or annually.
+#### How it is calculated
+Service | Entitlement
+5 years of service or less | 1 month notice
+More than 5 years of service | 2 months notice
+If notice is not honoured | Compensation equal to the wage for the unserved notice period
+Applies to workers paid monthly or annually — the standard case for most employees. Other pay arrangements (daily/weekly/hourly) follow a shorter scale under the same article. Cross-checked against Al Tamimi & Company . Source: Mondaq .
+#### Questions
+Q: How much notice is required in Qatar?
+A: For workers paid monthly or annually: 1 month if you have 5 years of service or less, 2 months if you have more than 5 years, per Article 49 of the Labour Law.
+Q: Is the notice period the same for the employer and employee?
+A: Yes — Article 49 sets the same period for whichever side is ending the contract, with no reason required.
+Q: What if the notice period is not observed?
+A: The party ending the contract without proper notice must pay the other the full wage for the notice period (or its remaining part).
+Q: Does this apply to fixed-term contracts too?
+A: Since a 2020 amendment, Article 49's notice-with-no-reason option applies to both indefinite and fixed-term contracts, not just indefinite ones.
+
+## Kuwait
+
+### Kuwait Indemnity Calculator
+URL: https://calcnate.com/kuwait/indemnity-calculator/
+End-of-service indemnity per Kuwait Labour Law — 15 days' pay per year for the first 5 years, a full month after, capped at 18 months' pay.
+#### How it is calculated
+Service | Entitlement
+First 5 years | 15 days pay per year
+Beyond 5 years | 1 month pay per year
+Daily wage | Monthly ÷ 26
+Resign 3–5 yrs | ½ of indemnity
+Resign 5–10 yrs | ⅔ of indemnity
+Cap | 18 months' total pay
+Based on full remuneration (basic + regular allowances), daily wage = monthly ÷ 26. Total capped at 1.5 years' pay. Source: Kuwait Labour Law summary .
+#### Questions
+Q: How is indemnity calculated in Kuwait?
+A: Fifteen days' pay for each of the first five years and a full month's pay for each year after five, using a daily wage of monthly pay ÷ 26, capped at 18 months' total pay.
+Q: Do I get indemnity if I resign in Kuwait?
+A: Yes, reduced: nothing under 3 years, half for 3–5 years, two-thirds for 5–10 years, and the full amount at 10+ years.
+Q: What is the maximum Kuwait indemnity?
+A: Total indemnity is capped at 18 months (1.5 years) of pay.
+Q: Is Kuwait indemnity on basic or full pay?
+A: On full remuneration including regular allowances.
+
+### Kuwait Leave Encashment Calculator
+URL: https://calcnate.com/kuwait/leave-encashment-calculator/
+Cash out your unused Kuwait annual leave — the daily wage divisor is 26, not 30, matching Kuwait's indemnity calculation.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 30 days/year after 1 year of service
+Daily wage divisor | Monthly wage ÷ 26 (not 30)
+Encashment | (Monthly wage ÷ 26) × unused leave days
+On end of service | Unused balance is settled as part of final dues
+The ÷26 divisor matches the one used for Kuwait indemnity — both reflect a 6-day work week convention rather than a flat 30-day month. Cross-checked against masdareor.com . Source: HLB HAMT — Guide on Statutory Leaves in Kuwait .
+#### Questions
+Q: How much annual leave do Kuwait employees earn?
+A: 30 days per year once you complete 1 year of service, under Kuwait's Labour Law No. 6 of 2010.
+Q: Why is Kuwait's leave divisor 26, not 30?
+A: Kuwait's daily-wage convention for leave (and indemnity) divides the monthly wage by 26 to reflect a 6-day working week, rather than a flat calendar-day divisor.
+Q: Can I get paid for unused leave while still working?
+A: Employers may agree to encash unused leave during employment; it is also settled as part of your final dues if you leave the company.
+Q: Is Kuwait leave pay on basic or full wage?
+A: Full monthly remuneration is generally used, consistent with how the same wage figure is used for Kuwait's end-of-service indemnity.
+
+### Kuwait Maternity Leave Calculator
+URL: https://calcnate.com/kuwait/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in Kuwait and what it's worth — per Labour Law No. 6 of 2010, Article 24.
+#### How it is calculated
+Service | Entitlement
+Total paid maternity leave | 70 days at full (100%) pay
+Timing | Within the period surrounding childbirth
+Further unpaid childcare leave | Up to 4 months, on request — counts toward service/gratuity
+Nursing breaks after return | 2 hours/day, paid, for up to 2 years
+Job protection | Termination during maternity leave or due to pregnancy is unlawful
+Who pays | Employer, in full
+Daily wage estimated as monthly wage ÷ 26, consistent with Kuwait's standard end-of-service wage-basis convention. We could not independently verify a specific before/after-delivery day split, so we show the total only. Source: Kuwait Labour Law No. 6/2010 (Art. 24) .
+#### Questions
+Q: How many days of paid maternity leave do I get in Kuwait?
+A: 70 days at full pay, under Article 24 of Labour Law No. 6 of 2010, taken around the time of childbirth.
+Q: Does taking maternity leave in Kuwait reduce my annual leave?
+A: No — the 70-day maternity leave is separate from and doesn't reduce your other leave entitlements, such as annual leave.
+Q: Can I take more time off after my 70 days of maternity leave in Kuwait?
+A: Yes — at your request, your employer may grant a further unpaid leave of up to 4 months for childcare. That unpaid time still counts toward your length of service and eventual gratuity.
+Q: Do I get paid nursing breaks after returning to work in Kuwait?
+A: Yes — a 2-hour paid nursing break each day, for up to 2 years after you return from maternity leave.
+
+### Kuwait Notice Period Calculator
+URL: https://calcnate.com/kuwait/notice-period-calculator/
+Notice period for ending an indefinite Kuwait employment contract — 3 months for monthly-paid workers, 1 month for others.
+#### How it is calculated
+Service | Entitlement
+Monthly-paid worker | 3 months notice
+Other pay frequency | 1 month notice
+If notice is not honoured | Compensation equal to the wage for the notice period
+Applies to indefinite-term (unlimited) contracts. Either party may waive the notice period by paying the equivalent wage instead. Cross-checked against Wefaq Law . Source: Al Razzaq Law Firm .
+#### Questions
+Q: How much notice must be given in Kuwait?
+A: For an indefinite contract: 3 months if you are paid monthly, 1 month if you are paid another way (daily, weekly, hourly), under Kuwait's Labour Law No. 6 of 2010.
+Q: Is the notice period the same for employer and employee?
+A: Yes, the same period applies to whichever side ends the contract.
+Q: Can the notice period be paid instead of worked?
+A: Yes — either party may waive it by paying the other's wage for the notice period.
+Q: Does this apply to fixed-term contracts?
+A: This rule covers indefinite (unlimited) contracts. Fixed-term contracts generally run to their end date; ending one early without cause can require compensation up to the remaining contract value.
+
+### Kuwait Probation Period Calculator
+URL: https://calcnate.com/kuwait/probation-period-calculator/
+What happens if employment ends during probation in Kuwait — per Labour Law No. 6 of 2010, Article 32.
+#### How it is calculated
+Service | Entitlement
+Maximum probation length | 100 working days
+Notice required to end employment | None — either party may end it without notice
+Compensation/indemnity owed | None — only wages already earned for days actually worked
+Repeating probation | Not allowed with the same employer
+Daily wage estimated as monthly wage ÷ 26, consistent with Kuwait's standard end-of-service wage-basis convention. Source: Kuwait Labour Law No. 6/2010 (Art. 32) .
+#### Questions
+Q: How long can probation last in Kuwait?
+A: A maximum of 100 working days, under Article 32 of Labour Law No. 6 of 2010. You cannot be placed on probation more than once with the same employer.
+Q: Is notice required to end employment during Kuwait probation?
+A: No — either the employer or the employee can end the employment during probation without any notice period.
+Q: What compensation is owed if I'm let go during Kuwait probation?
+A: None beyond your wages already earned for days you actually worked — no indemnity, severance, or end-of-service benefit is owed for a probation-period termination.
+Q: Can I quit without notice during probation in Kuwait?
+A: Yes — the right to end employment without notice during probation applies to both the employer and the employee.
+
+## Bahrain
+
+### Bahrain Leave Encashment Calculator
+URL: https://calcnate.com/bahrain/leave-encashment-calculator/
+Cash out your unused Bahrain annual leave on your gross wage (basic plus fixed allowances), per Labour Law Article 58.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 30 days/year, accruing at 2.5 days per month
+Wage basis | Gross salary — basic plus fixed allowances (e.g. housing, transport)
+Encashment formula | (Gross monthly salary ÷ 30) × unused leave days
+On end of service | Unused balance is paid as part of your final settlement
+Leave pay uses gross salary, unlike Bahrain's notice payment-in-lieu, which is based on basic wage plus the social allowance only — do not conflate the two wage bases. Cross-checked against Bahrain Labour Law (LMRA) . Source: HLB HAMT — Guide on Statutory Leaves in Bahrain .
+#### Questions
+Q: How much annual leave do Bahrain employees earn?
+A: 30 days per year, accruing at 2.5 days per month of service, under Article 58 of the Labour Law.
+Q: What salary is used for Bahrain leave encashment?
+A: Gross salary — basic pay plus fixed allowances such as housing and transport.
+Q: When is leave encashed in Bahrain?
+A: When employment ends, any unused annual leave balance must be paid out in cash as part of your final settlement.
+Q: Is this the same wage basis as Bahrain's notice-period payment?
+A: No — notice payment in lieu uses basic wage plus the social allowance only, a narrower base than the gross salary used for leave.
+
+### Bahrain Leaving Indemnity Calculator
+URL: https://calcnate.com/bahrain/leaving-indemnity-calculator/
+Leaving indemnity per Bahrain Labour Law — half a month's wage per year for the first 3 years, a full month after, pro-rated from day one.
+#### How it is calculated
+Service | Entitlement
+First 3 years | ½ month wage per year
+Beyond 3 years | 1 month wage per year
+Minimum service | None — pro-rated from day one
+Basis | Last wage
+For expatriate workers not enrolled in the social-insurance scheme. Pro-rated for partial years. Source: Bahrain Labour Law (Art. 116) .
+#### Questions
+Q: How is leaving indemnity calculated in Bahrain?
+A: Half a month's wage for each of the first three years and a full month's wage for each year after three, pro-rated for partial years, based on your last wage.
+Q: Is there a minimum service for Bahrain indemnity?
+A: No — it accrues from day one and is pro-rated for partial years.
+Q: Does resignation reduce Bahrain indemnity?
+A: No standard reduction — the accrued indemnity is due on leaving.
+Q: Who does this apply to?
+A: Mainly expatriate workers not covered by Bahrain's social-insurance (SIO) pension scheme.
+
+### Bahrain Maternity Leave Calculator
+URL: https://calcnate.com/bahrain/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in Bahrain and what it's worth — per Labour Law No. 36/2012, Article 32.
+#### How it is calculated
+Service | Entitlement
+Paid maternity leave | 60 days at full (100%) wage
+Optional extension | 15 further days, unpaid
+Post-delivery work ban | 40 days — you must not work during this period
+Number of occurrences | No cap — available every pregnancy
+Minimum prior service | None stated in Article 32
+Who pays | Employer, in full
+A medical certificate is required. Dismissal during maternity leave is separately prohibited (Article 33). Source: Bahrain LMRA — Labour Law No. 36/2012 (Art. 32) .
+#### Questions
+Q: How many days of paid maternity leave do I get in Bahrain?
+A: 60 days at full pay, under Article 32 of Labour Law No. 36/2012, plus an optional further 15 days unpaid if you want it.
+Q: Is Bahrain maternity leave paid at full salary?
+A: Yes — the 60-day statutory leave is at 100% of your wage, paid by your employer.
+Q: Is there a limit on how many times I can take maternity leave in Bahrain?
+A: No — the 60-day paid maternity leave applies to every pregnancy with no cap. (A separate, different entitlement — unpaid childcare leave for a child under 6 — is capped at 3 occasions; don't confuse the two.)
+Q: Do I have to work right after giving birth in Bahrain?
+A: No — the law requires you not to work during the 40 days immediately following delivery.
+
+### Bahrain Notice Period Calculator
+URL: https://calcnate.com/bahrain/notice-period-calculator/
+Bahrain sets one flat 30-day notice period for either party under Labour Law Article 99(a) — no sliding scale by years of service.
+#### How it is calculated
+Service | Entitlement
+Either party, any length of service | 30 days notice (flat — no sliding scale)
+Wage basis for payment in lieu | Basic wage + social/cost-of-living allowance (Article 47)
+Longer contractual notice | Binds the employer only, not the employee
+There is no tenure-based sliding scale for Bahrain notice periods — that is a common confusion with the separate leaving-indemnity formula, which does vary by years of service. Cross-checked against Bahrain Business Laws . Source: LMRA (Bahrain Labour Law, Legislation.bh) .
+#### Questions
+Q: How much notice is required in Bahrain?
+A: A flat 30 days for either party, regardless of length of service, under Article 99(a) of the Labour Law.
+Q: Does the Bahrain notice period increase with years of service?
+A: No. Unlike Bahrain's leaving indemnity (which does scale with service), the notice period is a flat 30 days for everyone.
+Q: Can my contract set a longer notice period?
+A: Yes, but a longer period only binds the employer — you can still resign with just 30 days notice.
+Q: What salary is used to calculate payment in lieu of notice?
+A: Your basic wage plus any social/cost-of-living allowance, under Article 47.
+
+### Bahrain Probation Period Calculator
+URL: https://calcnate.com/bahrain/probation-period-calculator/
+How much notice is legally required to end employment during probation in Bahrain, and what (if anything) is owed — per Labour Law No. 36/2012, Article 21.
+#### How it is calculated
+Service | Entitlement
+Maximum probation length | 3 months (up to 6 months by Ministerial decision, specified occupations only)
+Times allowed per employer | Once only
+Notice to end employment during probation | At least 1 day, either party, no cause needed
+Gratuity during probation | Not explicitly excluded in the statute — depends on total service; see our Bahrain Leaving Indemnity Calculator
+The 1-day notice is the statutory floor — your contract may specify more. This applies to the private sector. Source: Bahrain LMRA — Labour Law No. 36/2012 (Art. 21) .
+#### Questions
+Q: How long can probation last in Bahrain?
+A: Up to 3 months, extendable to 6 months only by a Ministerial decision for specified occupations. You can only be placed on probation once with the same employer.
+Q: How much notice is needed to end employment during Bahrain probation?
+A: At least 1 day, from either the employer or the employee, without needing to state a reason — per Article 21 of Labour Law No. 36/2012. Many contracts specify a longer notice period than this legal minimum.
+Q: Do I get gratuity if terminated during probation in Bahrain?
+A: The law does not contain an explicit probation-specific gratuity exclusion — gratuity (Article 116) is generally tied to your total length of service. In practice, very short probation periods rarely accrue a meaningful amount; check our Bahrain Leaving Indemnity Calculator for the general formula.
+Q: Can I be placed on probation more than once by the same employer?
+A: No — Bahrain law allows only one probationary period per employer for the same worker.
+
+## Oman
+
+### Oman Gratuity Calculator
+URL: https://calcnate.com/oman/gratuity-calculator/
+End-of-service gratuity under Oman's 2023 Labour Law (Royal Decree 53/2023) — one month of basic salary per year, with older service on the previous formula.
+#### How it is calculated
+Service | Entitlement
+Service from Aug 2023 | 1 month basic salary per year
+Older service (first 3 yrs) | 15 days per year
+Older service (after 3 yrs) | 1 month per year
+Minimum service | 1 year
+Basis | Basic salary
+Service on or after 1 Aug 2023 earns 1 month/year. Earlier service uses the previous 15-day/1-month formula. Source: Oman Labour Law (RD 53/2023) .
+#### Questions
+Q: How is gratuity calculated in Oman in 2026?
+A: Under the 2023 Labour Law, one month of basic salary for each year of service from August 2023. Service before then uses the old formula: 15 days per year for the first three years and one month per year after.
+Q: What is the minimum service for Oman gratuity?
+A: One year of continuous service.
+Q: Is Oman gratuity on basic or gross salary?
+A: Basic salary only.
+Q: Did Oman gratuity change in 2023?
+A: Yes — Royal Decree 53/2023 raised the rate to one month per year for service from August 2023, more generous than the previous formula.
+
+### Oman Leave Encashment Calculator
+URL: https://calcnate.com/oman/leave-encashment-calculator/
+Cash out your unused Oman annual leave — end-of-service encashment uses your comprehensive (gross) wage, under Royal Decree 53/2023.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 30 days/year
+Carry-over cap | Up to 30 days may be retained/carried
+Encashment during employment | Employer-optional, and paid at basic wage only, if the employee agrees in writing
+Encashment on end of service | Mandatory — paid at the comprehensive (gross) wage for the unused balance
+End-of-service leave encashment uses the comprehensive/gross wage — a more generous basis than the basic-wage rate that applies to optional in-service encashment. Cross-checked against Addleshaw Goddard . Source: PwC Middle East .
+#### Questions
+Q: How much annual leave do Oman employees earn?
+A: 30 days per year under Royal Decree 53/2023, in force since 31 July 2023.
+Q: What salary is used for Oman leave encashment?
+A: It depends on when: optional encashment during employment (if your employer agrees) is paid at basic wage only. Mandatory encashment when your service ends uses your comprehensive (gross) wage.
+Q: Can I cash out leave while still working in Oman?
+A: Only if your employer agrees and you consent in writing — and only at basic wage, unlike the gross-wage rate used at end of service.
+Q: Is there a cap on carrying leave forward?
+A: Yes — you may retain a balance of up to 30 days; the law also requires taking at least 30 days of leave at least once every 2 years.
+
+### Oman Maternity Leave Calculator
+URL: https://calcnate.com/oman/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in Oman under the new Labour Law — up from 50 days to 98 days under Royal Decree 53/2023, Article 84.
+#### How it is calculated
+Service | Entitlement
+Total paid maternity leave | 98 days at full/gross wage
+Split | Up to 14 days pre-delivery, remainder post-delivery
+Number of occurrences | No cap (the old law's 3-time limit was removed)
+Minimum prior service | None (the old law's qualifying-service requirement was removed)
+Who pays | Employer pays wages; also funded via a 1% Social Protection Fund maternity-insurance contribution
+This is the NEW law (effective 2023) — up from 50 days and a 3-occurrence cap under the old, repealed Royal Decree 35/2003. Source: Oman Labour Law — Royal Decree 53/2023 (Art. 84); Oman Social Protection Fund .
+#### Questions
+Q: How many days of paid maternity leave do I get in Oman?
+A: 98 days at full wage, under Article 84 of the new Labour Law (Royal Decree 53/2023) — up from 50 days under the old, repealed law.
+Q: Is there a limit on how many times I can take maternity leave in Oman?
+A: No — the new law removed the old 3-occurrence cap. You can take the 98-day paid leave every time you have a child.
+Q: Do I need a minimum length of service to qualify for Oman maternity leave?
+A: No — the new law removed the qualifying-service requirement that existed under the old Royal Decree 35/2003.
+Q: Who pays for maternity leave in Oman?
+A: Your employer pays your wages during the leave; the system is transitioning to funding through Oman's Social Protection Fund, to which employers contribute 1% of wages per month toward a dedicated maternity-insurance branch.
+
+### Oman Notice Period Calculator
+URL: https://calcnate.com/oman/notice-period-calculator/
+Notice period for ending an unlimited Oman employment contract under Royal Decree 53/2023, Article 38.
+#### How it is calculated
+Service | Entitlement
+Monthly-paid worker, unlimited contract | 30 days notice
+Other pay frequency, unlimited contract | 15 days notice
+Fixed-term contract | Generally cannot be ended early by notice — runs to term, or ends only for cause
+If notice is not honoured | Compensation based on the comprehensive (gross) wage for the notice period
+In force since 31 July 2023. Do not confuse this mid-term termination notice (Article 38) with the separate 1-month-plus non-renewal notice under Article 36(5). Cross-checked against Dentons . Source: Curtis, Mallet-Prevost, Colt & Mosle (Oman Law Blog) .
+#### Questions
+Q: How much notice is required in Oman?
+A: For an unlimited (open-ended) contract: 30 days if you are paid monthly, 15 days if you are paid another way, under Article 38 of Royal Decree 53/2023.
+Q: Can a fixed-term contract be ended early with notice?
+A: Generally no — fixed-term contracts run to their end date, and can usually only be ended early for cause under Articles 40/41, or by mutual agreement.
+Q: What salary is used for payment in lieu of notice?
+A: Your comprehensive (gross) wage — not just your basic salary.
+Q: Is this the same as the non-renewal notice?
+A: No — Article 38 (30/15 days) covers ending an unlimited contract mid-term. A separate rule (Article 36(5)) requires at least 1 month's notice if an employer does not intend to renew a fixed-term contract.
+
+### Oman Probation Period Calculator
+URL: https://calcnate.com/oman/probation-period-calculator/
+How much notice is legally required to end employment during probation in Oman, per the new Labour Law (Royal Decree 53/2023, Article 37).
+#### How it is calculated
+Service | Entitlement
+Maximum probation — monthly-paid worker | 3 months
+Maximum probation — other pay basis | 2 months
+Times allowed per employer | Once only
+Notice to end employment during probation | At least 7 days, either party
+If you complete probation | Counts toward your total length of service
+This is the NEW Oman Labour Law (effective 26 July 2023), replacing the old Royal Decree 35/2003. Source: Oman Labour Law — Royal Decree 53/2023 (Art. 37) .
+#### Questions
+Q: How long can probation last in Oman?
+A: Up to 3 months for workers paid monthly, or 2 months for workers paid on another basis — under Royal Decree 53/2023, Article 37. You can only be placed on probation once by the same employer.
+Q: How much notice is needed to end employment during Oman probation?
+A: At least 7 days, from either the employer or the employee, under Article 37 of the new Labour Law.
+Q: Does probation count toward my service in Oman?
+A: Yes — if you complete your probation period, it counts as part of your total length of service, which matters for your eventual gratuity.
+Q: Is this the old or new Oman Labour Law?
+A: This is the NEW law — Royal Decree 53/2023, effective 26 July 2023 — which replaced the previous Royal Decree 35/2003.
+
+## India
+
+### India Gratuity Calculator
+URL: https://calcnate.com/india/gratuity-calculator/
+Gratuity per the Payment of Gratuity Act — 15 days' salary for every completed year (15/26 formula), after 5 years of service, capped at ₹20 lakh.
+#### How it is calculated
+Service | Entitlement
+Formula | (last salary × 15 × years) ÷ 26
+Salary | Basic + dearness allowance
+Eligibility | 5 years of continuous service
+Year rounding | Over 6 months rounds up
+Cap | ₹20,00,000 (20 lakh)
+Enter basic + DA as the salary. Years round up if the extra months exceed 6. Tax-free up to ₹20 lakh. Source: Payment of Gratuity Act .
+#### Questions
+Q: How is gratuity calculated in India?
+A: Last drawn salary (basic + dearness allowance) × 15 × completed years ÷ 26. You must complete five years, and a part-year over six months rounds up to a full year.
+Q: What is the gratuity eligibility in India?
+A: Five years of continuous service, except in cases of death or disablement where the five-year rule is waived.
+Q: Is there a gratuity limit in India?
+A: Yes — gratuity is capped and tax-exempt up to ₹20,00,000 (20 lakh).
+Q: Which salary is used for Indian gratuity?
+A: The last drawn basic salary plus dearness allowance — not the full CTC.
+
+### India Leave Encashment Calculator
+URL: https://calcnate.com/india/leave-encashment-calculator/
+Cash out your unused earned leave — the standard Indian formula is (Basic + DA) ÷ 30 × unused days, capped at ₹25 lakh tax exemption.
+#### How it is calculated
+Service | Entitlement
+Formula | (Basic salary + Dearness Allowance) ÷ 30 × unused earned-leave days
+Entitlement (Factories Act, factory workers) | 1 day earned leave per 20 days worked, after 240 days worked in a year
+Entitlement (other sectors) | Varies by state Shops & Establishments Act — check your state and company policy
+Tax exemption (non-government employees) | Up to ₹25,00,000 lifetime aggregate, under Section 10(10AA)
+Some employers use a divisor of 26 instead of 30 — check your company policy. The exact ENTITLEMENT rate (how many days you earn per year) varies by sector and state; this tool encashes the balance you already know you are owed, from your payslip or HR record. Cross-checked against HROne . Source: ClearTax .
+#### Questions
+Q: What is the formula for leave encashment in India?
+A: (Basic salary + Dearness Allowance) ÷ 30 × the number of unused earned-leave days — though some companies use a divisor of 26 instead, so check your payslip or HR policy.
+Q: Is leave encashment taxable in India?
+A: At retirement/resignation for non-government employees, it is exempt up to ₹25,00,000 (a lifetime aggregate limit across employers) under Section 10(10AA); for government employees it is fully tax-free. Leave encashed while still employed is fully taxable.
+Q: How many earned-leave days do I accrue per year in India?
+A: This varies by sector and state — factory workers under the Factories Act 1948 earn roughly 1 day per 20 days worked (after 240 days worked in a year); other sectors follow their state's Shops & Establishments Act, which differs across states. Check your payslip or HR policy for your actual balance.
+Q: Is this the same as gratuity?
+A: No — see our India Gratuity Calculator for that separate, service-length-based benefit. Leave encashment pays out unused vacation days specifically.
+
+### India Maternity Leave Calculator
+URL: https://calcnate.com/india/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in India, and what it's worth — per the Maternity Benefit Act, 1961 (as amended by the 2017 Amendment), Section 5.
+#### How it is calculated
+Service | Entitlement
+1st or 2nd child | 26 weeks (182 days) fully paid
+3rd child or later | 12 weeks (84 days) fully paid
+Pre-delivery cap | Up to 8 weeks may be taken before the expected delivery date
+Eligibility | At least 80 days actually worked in the 12 months before the expected delivery date
+Applies to | Establishments with 10 or more employees
+Who pays | Employer (or ESI, if you're covered under that scheme)
+Salary basis = basic salary + dearness allowance. A part-time work-from-home arrangement may also be mutually agreed after the leave, depending on your role (Sec. 5(5)). Source: Maternity Benefit Act, 1961, as amended by the Maternity Benefit (Amendment) Act, 2017 (Sec. 5) .
+#### Questions
+Q: How many weeks of maternity leave do I get in India?
+A: 26 weeks (about 182 days) of fully paid leave for your first or second child, reducing to 12 weeks (84 days) from the third child onward — under Section 5 of the Maternity Benefit Act, 1961, as amended in 2017.
+Q: What is the eligibility requirement for maternity leave in India?
+A: You must have actually worked at least 80 days in the 12 months immediately before your expected delivery date (Section 5(2)).
+Q: Does India's maternity leave law apply to every employer?
+A: It applies to factories, mines, plantations, shops and establishments with 10 or more employees. Smaller establishments fall outside the Act's coverage.
+Q: Is Indian maternity leave paid by the employer or the government?
+A: By the employer directly, under the Maternity Benefit Act. If you're covered under India's separate ESI (Employees' State Insurance) scheme, your cash maternity benefit is instead paid through ESI.
+Q: Why does maternity leave reduce for a 3rd child in India?
+A: The 2017 Amendment to the Act deliberately set a lower 12-week entitlement from the third child onward, while keeping the fuller 26 weeks for the first two.
+
+## Philippines
+
+### Philippines Leave Encashment Calculator (Service Incentive Leave)
+URL: https://calcnate.com/philippines/leave-encashment-calculator/
+Cash out your unused Service Incentive Leave — the only leave type the Labor Code mandates be convertible to cash, per Article 95.
+#### How it is calculated
+Service | Entitlement
+Entitlement | 5 days Service Incentive Leave (SIL) per year, after 1 year of service
+Who is covered | Rank-and-file employees — exempt if your company already grants 5+ paid VL days, or has fewer than 10 workers
+Commutable to cash | Yes — the only Labor Code leave type that must be converted to cash if unused
+Formula | Daily rate × unused SIL days
+Vacation/sick leave beyond the 5-day SIL minimum is a company-policy benefit, not a Labor Code mandate — whether it is encashable depends on your employer's policy, not the law. Cross-checked against NDV Law . Source: Labor Law PH .
+#### Questions
+Q: What is Service Incentive Leave (SIL)?
+A: A minimum 5 days of paid leave per year that the Labor Code (Article 95) guarantees to rank-and-file employees with at least 1 year of service.
+Q: Is SIL the only leave that must be paid out in cash?
+A: Yes — it is the only Labor Code-mandated leave type that must be commuted to cash if unused at year-end. Any additional vacation/sick leave your company grants is a policy benefit, and whether it is encashable depends on that policy.
+Q: Who is exempt from SIL?
+A: Companies with fewer than 10 employees, and companies that already grant 5 or more days of paid vacation leave, are exempt from the SIL mandate specifically.
+Q: How is the cash value calculated?
+A: Your daily rate multiplied by the number of unused SIL days.
+
+### Philippines Maternity Leave Calculator
+URL: https://calcnate.com/philippines/maternity-leave-calculator/
+How much paid maternity leave you're entitled to in the Philippines and what it's worth — per the Expanded Maternity Leave Law, Republic Act No. 11210 (2019).
+#### How it is calculated
+Service | Entitlement
+Regular entitlement | 105 days paid, for every pregnancy — no cap on the number of children
+Solo parent (RA 8972) | +15 extra days paid — 120 days total
+Optional extension | +30 further days, unpaid
+Eligibility | At least 3 monthly SSS contributions in the 12 months before the semester of childbirth
+Who pays | SSS-funded (average daily salary credit); employer advances pay and tops up the “salary differential”
+At least 60 days of the leave must be taken after delivery. Small businesses (≤10 workers) and micro-enterprises may be exempted from the salary-differential top-up. Source: Republic Act No. 11210, the Expanded Maternity Leave Law (2019) .
+#### Questions
+Q: How many days of paid maternity leave do I get in the Philippines?
+A: 105 days for every pregnancy, under the Expanded Maternity Leave Law (RA 11210) — rising to 120 days if you're a qualified solo parent under RA 8972. An additional 30 days may be taken unpaid if you choose.
+Q: Is there a limit on how many children this applies to in the Philippines?
+A: No — unlike some countries, RA 11210 grants the full 105 days for every single pregnancy, with no reduction after a certain number of children.
+Q: Who pays for maternity leave in the Philippines?
+A: The Social Security System (SSS), based on your average daily salary credit. Your employer advances the payment and is reimbursed by SSS, and must separately pay you the difference between your actual salary and the SSS benefit (the ‘salary differential’), unless exempted as a small or distressed business.
+Q: What's the eligibility requirement for Philippine maternity leave?
+A: At least 3 monthly SSS contributions in the 12-month period immediately before the semester of your childbirth, miscarriage, or emergency termination of pregnancy.
+
+### Philippines Notice Period Calculator
+URL: https://calcnate.com/philippines/notice-period-calculator/
+The Philippines has three distinct notice-period regimes under the Labor Code depending on why the job is ending — this tool tells you which applies.
+#### How it is calculated
+Service | Entitlement
+Authorized-cause termination (redundancy, retrenchment, closure, labour-saving devices) | 30 days advance written notice to BOTH the employee and DOLE — mandatory (Art. 298)
+Just-cause dismissal (misconduct, fraud, etc.) | No fixed advance-notice period — twin-notice due process instead (Art. 297)
+Employee resignation | 30 days written notice, waivable at the employer's discretion (Art. 300)
+Article numbers use the Labor Code's renumbered scheme (formerly Articles 283, 282 and 285). These are three separate legal regimes — do not apply one figure to all termination types. Cross-checked against Respicio & Co. . Source: Labor Law PH .
+#### Questions
+Q: How much notice does an employer need to give in the Philippines?
+A: It depends on why: 30 days advance written notice to both the employee and DOLE for an authorized-cause termination (redundancy, retrenchment, closure, labour-saving devices, Article 298); no fixed advance notice for a just-cause dismissal, but a twin-notice due-process procedure instead (Article 297).
+Q: How much notice must I give if I resign?
+A: At least 30 days written notice under Article 300, though your employer can choose to waive this.
+Q: Can my employer just pay me instead of giving 30 days notice for redundancy?
+A: No — the 30-day advance notice to you and DOLE is a mandatory procedural step for authorized-cause termination, not something that can simply be paid away. Skipping it can expose the employer to nominal-damages liability on top of your separation pay.
+Q: What is twin-notice due process?
+A: For a just-cause dismissal, the employer must give a written notice of the specific charge, a real opportunity to respond, and then a written notice of the decision — rather than a fixed advance-notice period.
+Q: Is separation pay the same as notice pay?
+A: No — they are different. See our Philippines Separation Pay Calculator for the redundancy/retrenchment payout; this tool covers the notice/procedural requirement only.
+
+### Philippines Probationary Employment Calculator
+URL: https://calcnate.com/philippines/probation-period-calculator/
+What notice and pay apply if your employment ends during probation in the Philippines — per the Labor Code, Article 296 (formerly Article 281).
+#### How it is calculated
+Service | Entitlement
+Maximum probation length | 6 months from your start date (unless a longer apprenticeship agreement applies)
+Valid grounds to end probation early | (a) Just cause, or (b) failure to meet reasonable standards made known to you at hiring
+Notice — failure to meet standards | No fixed number of days; written notice within a reasonable time, no hearing required
+Notice — just cause | Standard twin-notice + hearing (same due process as regular employees)
+Separation pay — standards/just cause | Not owed
+Separation pay — authorized cause (redundancy, closure, etc.) | Owed — same formula as regular employees, even during probation
+If you work beyond 6 months without being told you failed to qualify, you generally become a regular employee by operation of law. Source: Philippine Labor Code, Article 296 (formerly 281) .
+#### Questions
+Q: How long can probationary employment last in the Philippines?
+A: A maximum of 6 months from your start date, under Labor Code Article 296 (formerly Article 281), unless you're covered by a longer apprenticeship agreement.
+Q: Can my employer end my probation without notice in the Philippines?
+A: Not quite — for failure to meet standards, written notice of which standard you failed must be given within a reasonable time before the effective date (no fixed number of days, and no hearing is required by law). For just-cause termination, the standard twin-notice-and-hearing due process applies, same as for regular employees.
+Q: Do I get separation pay if I'm let go during probation in the Philippines?
+A: Generally no, if it's for just cause or for failing to meet standards. You DO get separation pay if the reason is an authorized cause — redundancy, retrenchment, closure, or disease — using the same formula as a regular employee, even though you're still on probation.
+Q: What happens if my probation isn't formally ended after 6 months?
+A: If you continue working past 6 months without your employer telling you that you failed to qualify as a regular employee, you generally become a regular employee by operation of law.
+
+### Philippines Separation Pay Calculator
+URL: https://calcnate.com/philippines/separation-pay-calculator/
+Separation pay and retirement pay under the Philippine Labor Code — the amount depends on the cause of separation.
+#### How it is calculated
+Service | Entitlement
+Redundancy / labour-saving | 1 month pay per year
+Retrenchment / closure / disease | ½ month pay per year
+Minimum separation pay | 1 month
+Retirement (60–65, 5+ yrs) | 22.5 days pay per year
+Voluntary resignation | Generally none
+Separation pay applies to authorized-cause dismissals, not voluntary resignation. A part-year of 6 months or more counts as a full year. Source: Philippine Labor Code .
+#### Questions
+Q: How is separation pay calculated in the Philippines?
+A: For authorized-cause dismissals: one month's pay per year of service for redundancy or labour-saving devices, or half a month per year for retrenchment, closure or disease — with a one-month minimum. A part-year of six months or more counts as one year.
+Q: Do I get separation pay if I resign?
+A: Generally no. Voluntary resignation does not entitle you to separation pay unless your contract or CBA provides it.
+Q: How is retirement pay calculated?
+A: For employees aged 60–65 with at least five years of service, retirement pay is 22.5 days of pay per year of service (half-month salary equivalent).
+Q: What counts as a full year for separation pay?
+A: A fraction of at least six months is counted as one whole year.
+
+## United Kingdom
+
+### UK Holiday Pay on Leaving Calculator
+URL: https://calcnate.com/uk/holiday-pay-calculator/
+Work out the accrued-but-untaken holiday your employer must pay you when you leave — the pro-rata (A×B)−C rule from the Working Time Regulations 1998.
+#### How it is calculated
+Rule | Detail
+Statutory entitlement | 5.6 weeks per year (28 days for a 5-day week)
+On leaving | Accrued minus taken, paid in lieu
+Accrual formula | entitlement × (proportion of leave year worked) − taken
+A day's pay | A week's pay ÷ working days per week
+Pay basis | Normal remuneration (regular overtime/commission included)
+Regulation 14 pays accrued untaken statutory leave when the job ends. A 'week's pay' for variable pay uses a 52-week average (ERA 1996 ss.221–224). Source: Working Time Regulations 1998, reg 14 .
+#### Questions
+Q: Do I get paid for unused holiday when I leave a job in the UK?
+A: Yes. Under the Working Time Regulations 1998 (regulation 14), any statutory holiday you've accrued but not taken by your last day must be paid in lieu. The amount is your accrued entitlement for the part-year worked, minus holiday already taken, valued at a day's pay.
+Q: How is accrued holiday calculated on leaving?
+A: Take your annual entitlement (statutory minimum 5.6 weeks, i.e. 28 days for a five-day week), multiply by the proportion of the holiday year you worked before leaving, then subtract the days you already took. What's left is paid out.
+Q: Can my employer make me take holiday during my notice?
+A: Yes — an employer can require you to use accrued holiday during your notice period by giving the correct notice (twice the length of the leave). Holiday taken this way reduces what's paid out.
+Q: What if I've taken more holiday than I accrued?
+A: If you've taken more statutory leave than you'd accrued by your leaving date, your employer can only recover the excess if your contract or a written agreement clearly allows a deduction. Without that, they generally cannot claw it back.
+Q: Is holiday pay based on basic pay only?
+A: No. Holiday pay must reflect your 'normal remuneration', which includes regular overtime, commission and similar payments. For variable pay, a week's pay is averaged over the previous 52 worked weeks.
+
+### UK Statutory Notice Pay Calculator
+URL: https://calcnate.com/uk/notice-pay-calculator/
+The statutory minimum notice your employer must give — and what it's worth in pay. Per the Employment Rights Act 1996, section 86.
+#### How it is calculated
+Rule | Detail
+1 month up to under 2 years | 1 week (employer)
+2 years up to under 12 years | 1 week per complete year (employer)
+12 years or more | 12 weeks (employer cap)
+Employee resigning | 1 week after 1 month (does not rise with service)
+Pay basis | Normal full pay — no weekly cap
+This is the statutory minimum. A contract can require longer notice, in which case the contractual period applies. Source: GOV.UK — Notice periods .
+#### Questions
+Q: How much notice must my employer give me in the UK?
+A: The statutory minimum is one week if you've worked between one month and two years, then one week for every complete year, capped at 12 weeks (so 12 years' service or more gives 12 weeks). Your contract may require more, in which case the longer period applies.
+Q: How much notice must I give when I resign?
+A: The statutory minimum for an employee is one week once you've been employed for at least one month, and it does not increase with length of service. Your contract will often require more — commonly one month for many roles.
+Q: Is notice pay capped like redundancy pay?
+A: No. Notice pay is your normal full weekly pay for each week of notice. The statutory weekly-pay cap (£751 in 2026/27) applies to redundancy pay, not to notice pay.
+Q: What is payment in lieu of notice (PILON)?
+A: Instead of working your notice, your employer can pay you the wages you would have earned during the notice period. PILON is generally taxable as earnings.
+Q: Do I get statutory notice if I'm dismissed for gross misconduct?
+A: No. An employer can dismiss without notice (summary dismissal) for genuine gross misconduct. Statutory notice applies to ordinary dismissals, including redundancy.
+
+### UK Notice Period Calculator — Work Out Your Last Day
+URL: https://calcnate.com/uk/notice-period-calculator/
+Enter the date you hand in (or receive) notice and the notice length — 1 week, 4 weeks, 1 month, or the statutory minimum — and get your exact last day of employment, with working days and bank holidays counted.
+#### How a UK notice period is counted
+Rule | Detail
+Day 1 of notice | The day after notice is given (ACAS). Hand in notice on Monday → notice runs from Tuesday.
+Notice in weeks | Ends on the same weekday N weeks after the day notice was given. 1 week's notice given Monday → last day the following Monday.
+Notice in months | Ends on the corresponding date in a later month. 1 month's notice given 5 June → last day 5 July. No matching date (e.g. 31 Jan) → last day of the following month.
+Weekends & bank holidays | Count towards the notice period — it's calendar time, not working days.
+Last day on a non-working day | Employment still ends that date; your final day physically at work is the working day before.
+Sources: ACAS — Notice periods · GOV.UK — Handing in your notice · GOV.UK — Redundancy notice periods .
+#### Questions
+Q: When does my notice period actually start?
+A: Per ACAS guidance, a notice period normally starts the day AFTER you give notice, not the day itself. So if you hand in your notice on Monday, day one of your notice period is Tuesday — and one week's notice would make the following Monday your last day.
+Q: Does a notice period include weekends and bank holidays?
+A: Yes. A notice period is measured in calendar time, so weekends and bank holidays count towards it. They only matter for which days you actually work: your last day of employment can fall on a non-working day, in which case your final working day is the last working day before it.
+Q: Is 4 weeks' notice the same as 1 month's notice?
+A: No. Four weeks is always exactly 28 days, while one month runs to the same date in the next month (the "corresponding date" rule) — which is 28 to 31 days depending on the month. Over a 3-month notice period the difference between "12 weeks" and "3 months" can be several days, so check the exact wording in your contract.
+Q: How is 1 month's notice counted if there is no matching date next month?
+A: One month's notice ends on the corresponding date in the next month — notice given 5 June ends 5 July. If there is no corresponding date (for example one month from 31 January), the period ends on the last day of the following month (28 or 29 February).
+Q: What if my last day of notice falls on a weekend?
+A: Your employment still legally ends on that date — the notice period is calendar time. In practice your final day in work is simply the last working day before it, and you remain employed (and paid) through to the end date.
+Q: How much notice do I have to give by law in the UK?
+A: The statutory minimum for an employee resigning is 1 week once you have at least one month's service — it does not increase with length of service. Most contracts require more (commonly one month). An employer dismissing you must give 1 week after one month's service, rising to 1 week per complete year from 2 years, capped at 12 weeks.
+Q: Can my employer make me leave before my notice period ends?
+A: Only if your contract allows payment in lieu of notice (PILON) — paying you what you would have earned for the remaining notice instead of you working it — or puts you on garden leave, where you stay employed and paid to the end date but do not attend work. Otherwise, ending your employment early without pay for the notice owed can be wrongful dismissal.
+Q: What happens if I leave without working my full notice?
+A: You would be in breach of contract. In practice most employers do not sue, but they can refuse to pay for time not worked, may deduct losses where the contract allows, and it can cost you a good reference. It is almost always better to agree an earlier leaving date in writing.
+
+### UK Statutory Redundancy Pay Calculator
+URL: https://calcnate.com/uk/redundancy-pay-calculator/
+How much statutory redundancy pay you are owed — age-banded weeks capped at 20 years and the statutory weekly-pay limit. England, Wales & Scotland (Employment Rights Act 1996).
+#### How it is calculated
+Rule | Detail
+Aged 41 and over | 1.5 weeks' pay per full year
+Aged 22 to 40 | 1 week's pay per full year
+Under 22 | 0.5 week's pay per full year
+Years counted | Most recent 20 years only
+Weekly pay cap | £751 (from 6 Apr 2026); £719 (2025/26)
+Maximum payment | £22,530 (2026/27); £21,570 (2025/26)
+Minimum service | 2 years' continuous employment
+Each year is banded by the age you were during that year, working back from your current age. Weekly pay is gross, averaged over the 12 weeks before notice, and capped at the statutory limit. Source: GOV.UK — Redundancy pay .
+#### Questions
+Q: How is UK statutory redundancy pay calculated?
+A: For each full year of continuous service you get 1.5 weeks' pay for years you were 41 or over, 1 week's pay for years you were 22 to 40, and half a week's pay for years under 22. Only your most recent 20 years count, and weekly pay is capped at the statutory limit (£751 from 6 April 2026, £719 for 2025/26).
+Q: What is the maximum statutory redundancy payment?
+A: The maximum is 30 weeks' pay at the capped weekly rate: £22,530 for redundancies on or after 6 April 2026 (20 years × 1.5 weeks × £751), and £21,570 for 2025/26 (× £719).
+Q: Do I qualify for statutory redundancy pay?
+A: You must have at least two years of continuous service with the employer and be an employee (not self-employed or a genuine contractor). Some dismissals — such as being offered suitable alternative work you unreasonably refuse — can remove the entitlement.
+Q: Is redundancy pay based on gross or net pay?
+A: Gross pay — your average weekly earnings before tax over the 12 weeks before you were given notice, capped at the statutory weekly limit. Statutory redundancy pay itself is tax-free up to £30,000.
+Q: Does my employer have to give more than statutory?
+A: Statutory is the legal minimum. Many employers pay enhanced (contractual) redundancy that is more generous — check your contract or company policy. This calculator shows the statutory floor.
+
+## Canada
+
+### Canada Termination & Severance Pay Calculator
+URL: https://calcnate.com/canada/severance-pay-calculator/
+The statutory MINIMUM you're owed when let go — notice/termination pay plus severance pay — under the Ontario ESA or the federal Canada Labour Code. Common-law reasonable notice is often higher.
+#### How it is calculated
+Rule | Detail
+Ontario notice | <1yr=1wk, 1–3yr=2, then 1 wk/yr, cap 8 weeks (after 3 months)
+Ontario severance | 1 week/year (+ months÷12), cap 26 — only if 5+ yrs AND payroll ≥ $2.5M (or 50+ let go)
+Federal notice | 2 weeks from 3 months; 3 weeks at 3 yrs; +1 wk/yr, cap 8 (since 1 Feb 2024)
+Federal severance | Greater of 2 days' wages/year or 5 days' wages — after 12 months
+Basis | Regular wages for a regular work week
+These are STATUTORY MINIMUMS. In Ontario, termination pay and severance pay are separate and can both apply. Common-law 'reasonable notice' is often significantly more. Source: ontario.ca / canada.ca .
+#### Questions
+Q: How is severance pay calculated in Ontario?
+A: Ontario ESA severance pay is one week of regular wages for each completed year of employment, plus a fraction for extra months (months ÷ 12), capped at 26 weeks. It applies only if you worked 5+ years AND the employer's payroll is at least $2.5 million (or 50+ employees were severed within six months). It is separate from, and paid on top of, termination (notice) pay.
+Q: What's the difference between termination pay and severance pay in Ontario?
+A: Termination pay replaces the notice period (1 week per year up to 8 weeks). Severance pay is an extra entitlement for long-service employees of larger employers (1 week per year up to 26 weeks). A qualifying employee can receive both.
+Q: What is federal severance under the Canada Labour Code?
+A: For federally regulated employees (banks, airlines, telecoms, interprovincial transport, etc.), after 12 months you're owed the greater of two days' wages per year of service or five days' wages, on top of graduated notice of 2–8 weeks.
+Q: Is the statutory amount all I can get?
+A: No — it's the legal minimum. Non-unionized employees dismissed without cause are usually entitled to common-law 'reasonable notice', which can be several months and far exceeds the ESA/Code minimums. Get legal advice before signing a release.
+Q: Does this apply if I quit or was fired for cause?
+A: Statutory termination and severance generally don't apply if you resign or are dismissed for wilful misconduct/just cause. They apply to without-cause terminations and layoffs.
+
+### Canada Vacation Pay Calculator
+URL: https://calcnate.com/canada/vacation-pay-calculator/
+Vacation pay is a percentage of your gross wages — 4% or 6% in Ontario, and 4%/6%/8% federally by length of service. Estimate what you've earned or are owed on leaving.
+#### How it is calculated
+Rule | Detail
+Ontario — under 5 years | 4% of gross wages (2 weeks vacation)
+Ontario — 5+ years | 6% of gross wages (3 weeks vacation)
+Federal — 1 to 5 years | 4% of gross wages (2 weeks)
+Federal — 5 to 10 years | 6% of gross wages (3 weeks)
+Federal — 10+ years | 8% of gross wages (4 weeks)
+On leaving | All accrued unpaid vacation pay must be paid out
+Vacation pay is calculated on gross wages (excluding vacation pay itself). Federally, the 8% tier at 10 years is the key difference from Ontario, which tops out at 6%. Source: ontario.ca / canada.ca .
+#### Questions
+Q: How is vacation pay calculated in Ontario?
+A: It's 4% of your gross wages if you've been employed under 5 years (equivalent to 2 weeks' vacation), and 6% once you reach 5 years (3 weeks). On leaving, any vacation pay you've accrued but not taken must be paid out.
+Q: What is the federal vacation pay rate?
+A: Under the Canada Labour Code it's 4% after 1 year (2 weeks), 6% after 5 consecutive years (3 weeks), and 8% after 10 consecutive years (4 weeks). The 8% tier is the main difference from Ontario, which caps at 6%.
+Q: Do I get vacation pay when I quit or am fired?
+A: Yes. Vacation pay accrues on your wages regardless of how the job ends, so any accrued but unpaid vacation pay must be included in your final pay.
+Q: Is vacation pay calculated on gross or net wages?
+A: On gross wages — your earnings before deductions — and generally excluding vacation pay already paid. Overtime and most wages count toward the base it's calculated on.
+Q: Does vacation pay come on top of severance?
+A: Yes. Vacation pay is a separate entitlement from termination and severance pay, and all accrued vacation pay is owed in your final settlement.
+
+## Australia
+
+### Australia Annual Leave Payout Calculator
+URL: https://calcnate.com/australia/annual-leave-calculator/
+Turn your accrued unused annual leave into a payout figure for when you leave. The NES gives 4 weeks a year, paid out on termination at your base rate — plus 17.5% loading where it applies.
+#### How it is calculated
+Rule | Detail
+NES entitlement | 4 weeks paid annual leave per year (5 for some shift workers)
+Accrual | Progressive — ≈2.923 hours per 38 ordinary hours worked
+On termination | All accrued unused annual leave must be paid out
+Pay basis | Base rate for ordinary hours
+Leave loading | 17.5% (if it applied) is paid out even if the award says otherwise
+Annual leave loading is not part of the NES — it comes from an award or agreement — but where it applied during employment, Fair Work says it is paid out on termination. Source: Fair Work Ombudsman — Final pay & annual leave .
+#### Questions
+Q: Do I get paid for unused annual leave when I leave in Australia?
+A: Yes. Under the National Employment Standards, all accrued but unused annual leave must be paid out when your employment ends, at the same amount you'd have received had you taken it — your base rate for ordinary hours.
+Q: How much annual leave do you accrue in Australia?
+A: The NES gives 4 weeks of paid annual leave per year (5 weeks for certain shift workers). It accrues progressively — roughly 2.923 hours for every 38 ordinary hours worked — and carries over year to year.
+Q: Is annual leave loading paid out on termination?
+A: If a 17.5% annual leave loading applied to you during employment (through an award or enterprise agreement), Fair Work states it must be paid out on your accrued leave when you leave — even if the award says loading isn't payable on termination.
+Q: What rate is annual leave paid out at?
+A: At your base rate of pay for ordinary hours (capped at 38 hours a week under the NES). This excludes overtime and penalty rates, but includes leave loading where it applied.
+Q: How do I find my accrued leave balance?
+A: Australian payslips show your accrued annual leave, usually in hours. Enter that figure and your base hourly rate to estimate the payout; the tool also shows the rough equivalent in weeks.
+
+### Long Service Leave Calculator (NSW & VIC)
+URL: https://calcnate.com/australia/long-service-leave-calculator/
+Estimate your long service leave for NSW or Victoria. LSL is STATE-based — every state and territory has its own Act, thresholds and formula. This tool covers NSW and Victoria.
+#### How it is calculated
+Rule | Detail
+NSW — accrual | 2 months (8.67 weeks) after 10 years; +1 month per further 5 years
+NSW — pro-rata | Payable at 5–<10 years only if employer ends it (not misconduct), or you resign for illness/pressing necessity, or death
+Victoria — accrual | 1/60th of total continuous service (≈8.67 weeks after 10 years)
+Victoria — pro-rata | Payable on termination after 7 years, for any reason
+Pay basis | Ordinary rate of pay
+Other states | QLD, SA, WA, TAS, ACT, NT each differ — not covered here
+Long service leave is state-based: thresholds and formulas differ in every jurisdiction. This tool covers NSW and Victoria only — check your own state's Act for others. Source: NSW LSL Act 1955 / Vic LSL Act 2018 .
+#### Questions
+Q: How much long service leave do you get in NSW?
+A: In NSW you're entitled to 2 months (8.67 weeks) of paid long service leave after 10 years of continuous service, plus 1 additional month for every further 5 years. Between 5 and 10 years, a pro-rata amount is only payable if the employer ends your employment (other than for serious misconduct), you resign due to illness/incapacity or pressing necessity, or on death.
+Q: How is long service leave calculated in Victoria?
+A: Victoria uses a 1/60th rule: you accrue 1/60th of your total period of continuous employment as long service leave (about 8.67 weeks after 10 years). You can take leave after 7 years, and if your job ends after 7 years the pro-rata balance is paid out — regardless of who ended it.
+Q: Is long service leave the same in every state?
+A: No. Long service leave is set by each state and territory's own Act, and the thresholds and formulas differ. This calculator covers NSW and Victoria; Queensland, SA, WA, Tasmania, the ACT and NT each have separate rules you should check.
+Q: Do I get long service leave paid out if I resign?
+A: It depends on your state and service. In Victoria, yes, once you have 7+ years. In NSW, only at 10+ years for an ordinary resignation; between 5 and 10 years an ordinary resignation doesn't qualify (illness/pressing-necessity resignations do).
+Q: What pay rate is long service leave paid at?
+A: Long service leave is paid at your ordinary rate of pay. This calculator applies your weekly ordinary pay to the accrued weeks.
+
+### Australia Redundancy Pay Calculator
+URL: https://calcnate.com/australia/redundancy-pay-calculator/
+Your National Employment Standards (NES) redundancy pay — a set number of weeks by length of continuous service, paid at your base rate. Fair Work Act 2009.
+#### How it is calculated
+Rule | Detail
+1 – <2 years | 4 weeks
+2 – <3 years | 6 weeks
+3 – <4 years | 7 weeks
+4 – <5 years | 8 weeks
+5 – <6 years | 10 weeks
+6 – <7 years | 11 weeks
+7 – <8 years | 13 weeks
+8 – <9 years | 14 weeks
+9 – <10 years | 16 weeks
+10 years or more | 12 weeks (long service leave applies)
+Paid at the base rate of pay for ordinary hours (excludes overtime, penalty rates, bonuses and most allowances). Under 1 year = nil. Small-business employers ( Fair Work Ombudsman — Redundancy pay .
+#### Questions
+Q: How is redundancy pay calculated in Australia?
+A: Under the National Employment Standards, redundancy pay is a set number of weeks based on your length of continuous service: 4 weeks at 1 year, rising to a peak of 16 weeks at 9–10 years, then dropping to 12 weeks at 10+ years. It's paid at your base rate of pay for ordinary hours.
+Q: Why does redundancy pay drop after 10 years?
+A: It's a deliberate feature of the NES scale. Pay peaks at 16 weeks for 9 to under 10 years, then falls to 12 weeks at 10+ years, because employees with 10 years become entitled to long service leave, which offsets the reduction.
+Q: Is redundancy pay based on base or gross pay?
+A: Base rate of pay for ordinary hours — it excludes overtime, penalty rates, bonuses, commissions and most allowances and loadings. An applicable award or enterprise agreement can treat some allowances differently.
+Q: Do small businesses have to pay redundancy pay?
+A: Generally no. Employers with fewer than 15 employees are exempt from NES redundancy pay, though a modern award or enterprise agreement may still impose an obligation.
+Q: Do I get redundancy pay with under 1 year of service?
+A: No NES redundancy pay applies with under 12 months of continuous service, but you may still be owed notice of termination and payout of accrued annual leave.
+
+## Global tools
+
+### Compound Interest Calculator
+URL: https://calcnate.com/tools/compound-interest-calculator/
+Project savings growth with regular contributions — and see what the balance is actually worth after inflation.
+#### How compound interest is calculated
+Compounding | Effective rate | Balance after 1 year
+Yearly | 7.000% | 10,700
+Half-yearly | 7.123% | 10,712
+Quarterly | 7.186% | 10,719
+Monthly | 7.229% | 10,723
+Daily | 7.250% | 10,725
+Continuous | 7.251% | 10,725
+Compound interest pays interest on your interest. The balance after t years on a lump sum is: A = P × (1 + r/n) n·t P = starting amount · r = annual rate as a decimal · n = compounding periods per year · t = years. Regular contributions are handled separately, because each one compounds for a different length of time. This calculator converts your nominal rate into an effective annual rate , then into an equivalent monthly rate, and steps through the balance month by month — which is exactly how a savings account or index fund actually behaves. Why compounding frequency matters The same 7% behaves differently depending on how often it is applied. On a 10,000 lump sum over one year: The gap between yearly and daily is small over one year but compounds into a real difference over decades. Why the inflation field matters A balance of 500,000 in thirty years is not 500,000 of today's spending power. Entering an inflation rate divides the final balance by (1 + inflation) years to show the real value — the number that actually tells you what the money will buy.
+#### Questions
+Q: What is the difference between simple and compound interest?
+A: Simple interest is paid only on the original amount, so 1,000 at 10% earns 100 every year forever. Compound interest is paid on the balance including past interest, so year two earns 110, year three earns 121, and so on. Over long periods the difference is enormous.
+Q: Should I use monthly or annual compounding?
+A: Use whatever your account actually does. Most savings accounts and loans compound monthly or daily; bonds often pay half-yearly. If you do not know, monthly is the closest approximation for most retail products.
+Q: Are contributions added at the start or end of the month?
+A: At the end of each month, which is the conservative assumption and matches how most salary-funded savings work. Contributing at the start of the month would produce a slightly higher balance.
+Q: What return rate should I assume?
+A: That is your judgement, not a fact this tool can supply. For context, long-run global equity returns have historically averaged roughly 7% a year before inflation, but any individual decade can be far higher or lower — including negative.
+Q: Does this account for tax?
+A: No. Investment and interest income are taxed very differently across countries, so the projection is pre-tax. Reduce your assumed rate if interest is taxed annually where you live.
+
+### Loan & EMI Calculator
+URL: https://calcnate.com/tools/loan-emi-calculator/
+Your monthly instalment, the true interest cost, and what overpaying actually saves you.
+#### How the EMI is calculated
+Every mainstream lender uses the same reducing-balance formula: EMI = P × i × (1+i) n ÷ ((1+i) n − 1) P = loan amount · i = monthly rate (annual ÷ 12 ÷ 100) · n = number of monthly payments. Why your early payments are almost all interest Interest each month is charged on the outstanding balance , which is at its largest on day one. On a 250,000 loan at 5.5% over 20 years, the first payment is roughly 1,146 — of which about 1,146 × 55% is interest. By the final year almost the whole payment goes to principal. This is why the amortisation table above matters more than the headline rate: it shows where your money actually goes. Why overpaying is so effective An extra payment comes off the principal directly, so it removes not just that amount but every future month of interest that amount would have generated. On a long loan, a modest overpayment early can cut years off the term. Enter a figure in the extra-payment field to see the exact saving on your own numbers. What this does not include Processing fees, insurance, early-settlement penalties and rate changes on a variable loan are not modelled. Check whether your lender charges a prepayment penalty before overpaying — in some markets it cancels out the benefit.
+#### Questions
+Q: What does EMI stand for?
+A: Equated Monthly Instalment — a fixed monthly payment covering both interest and principal, so the loan is fully repaid by the end of the term.
+Q: Why is my total repayment so much more than the loan?
+A: Because interest is charged every month on the balance still outstanding. On a 20-year loan at 5.5% you repay roughly 165% of what you borrowed. The amortisation table shows the split year by year.
+Q: Does paying extra reduce my EMI or my term?
+A: By default most lenders keep the EMI the same and shorten the term, which is what this calculator models. Some will instead recalculate a lower EMI over the original term. Ask your lender which they do — shortening the term saves far more interest.
+Q: Is this the same as a mortgage calculator?
+A: The payment maths is identical. A mortgage additionally involves a deposit, property price and affordability limits — use the mortgage affordability calculator for that.
+Q: Does it handle variable or floating rates?
+A: No. It assumes the rate is fixed for the whole term. For a floating loan, run it once at today's rate and again a few points higher to see your exposure.
+
+### Mortgage Affordability Calculator
+URL: https://calcnate.com/tools/mortgage-affordability-calculator/
+What you can realistically borrow — and whether you could still pay if rates rose.
+#### How lenders decide what you can borrow
+Market / product | Typical maximum DTI
+Conservative / conforming | 36%
+US qualified mortgage | 43%
+Many GCC banks | 50% of salary (regulator-capped)
+UK affordability model | Income multiple ~4.5× plus a stress test
+Almost every lender in the world applies some version of the same three tests. The binding one is usually debt-to-income . 1. Debt-to-income (DTI) Your total monthly debt payments — the new mortgage plus car finance, credit cards and personal loans — must stay under a percentage of gross monthly income. Common limits: Enter the limit that applies to you. Using a lower figure than the maximum is how you leave yourself room. 2. Deposit / loan-to-value The deposit does not affect the monthly payment maths — it raises the price you can reach, one-for-one. It also drives the rate you are offered: most lenders price in tiers at 90%, 80% and 75% loan-to-value, and a larger deposit often removes mortgage insurance entirely. 3. The stress test — the part most calculators omit Regulators in the UK, EU, Canada and Australia require lenders to check you could still pay if rates rose by roughly two percentage points. This calculator runs that test for you. If the stressed maximum is far below the headline maximum, borrowing the full amount is a bet on rates staying low.
+#### Questions
+Q: Should I borrow the maximum I am offered?
+A: Usually not. The maximum is the point at which a lender still expects to be repaid, not the point at which your life stays comfortable. The stress-test figure is a better guide to a safe borrowing level.
+Q: Does a bigger deposit reduce my monthly payment?
+A: It reduces the amount borrowed, so yes. It also commonly unlocks a lower rate band and can remove mortgage insurance, so the effect is larger than the headline number suggests.
+Q: What counts as an existing debt payment?
+A: Contractual monthly commitments: car finance, personal loans, student loans, credit-card minimums and any maintenance orders. Ordinary living costs like groceries and utilities are not counted in DTI, though lenders assess them separately.
+Q: Why does the calculator ignore property taxes and insurance?
+A: Because they vary enormously by country — some markets bundle them into the payment, others bill them annually and some have none at all. Deduct your local figure from the available-for-mortgage line for a stricter result.
+Q: Is a 50% DTI safe just because a bank allows it?
+A: A regulator-permitted ceiling is a limit on the lender, not a recommendation for you. At 50% DTI, half your gross income is committed before tax, housing costs and savings — most household budgets get very fragile there.
+
+### Overtime Pay Calculator
+URL: https://calcnate.com/tools/overtime-pay-calculator/
+Work out overtime from a salary or an hourly rate, at whichever multipliers your law or contract uses.
+#### How overtime pay is calculated
+Situation | Typical multiplier
+US federal minimum for non-exempt staff (FLSA); a common contractual rate elsewhere. UK law sets no overtime premium. | 1.5× — "time and a half"
+UAE daytime overtime | 1.25× of basic
+UAE overtime between 22:00 and 04:00 | 1.5× of basic
+Saudi Arabia overtime | 1.5× of wage
+Rest day worked (many jurisdictions) | 1.5× plus a compensatory day
+Public holidays / Sundays | 2× — "double time"
+Overtime is your ordinary hourly rate multiplied by a premium. The two things that vary between countries are how the hourly rate is derived from a salary and which multiplier applies when . Deriving the hourly rate from a monthly salary hourly = (monthly salary × 12) ÷ (standard hours per week × 52) On a 6,000 monthly salary and a 48-hour week: (6,000 × 12) ÷ (48 × 52) = 28.85 an hour. Common multipliers worldwide These are the common defaults, not a substitute for your own contract or labour code — many collective agreements are more generous, and several countries base the premium on basic salary rather than gross. Basic versus gross This matters more than the multiplier. Several Gulf labour laws compute overtime on basic salary, excluding housing and transport allowances — so an employee on 6,000 gross with 3,600 basic has overtime calculated on 3,600. Enter whichever figure your law uses.
+#### Questions
+Q: What is time and a half?
+A: Pay at 1.5 times the normal hourly rate. It is the most common overtime premium worldwide and the statutory US rate for hours beyond 40 in a week.
+Q: Is overtime calculated on basic or gross salary?
+A: It depends on the jurisdiction. Much of Europe and the US use total ordinary pay; several Gulf labour codes use basic salary only, excluding allowances. Using the wrong base is the single most common overtime error.
+Q: How many hours before overtime starts?
+A: Commonly 40 a week in the US and much of Europe, 48 across much of the Gulf and Asia. Some countries also trigger overtime on a daily threshold, typically 8 or 9 hours, regardless of the weekly total.
+Q: Are managers entitled to overtime?
+A: Often not. Most systems exempt genuine senior, supervisory or professional roles, but the test is the actual duties performed, not the job title. A title of 'manager' alone does not remove the entitlement.
+Q: Can overtime be paid as time off instead?
+A: In many countries yes, if the employee agrees — usually at the same premium, so 1.5 hours off for each overtime hour. Some jurisdictions require the employee's written consent.
+
+### Percentage Calculator
+URL: https://calcnate.com/tools/percentage-calculator/
+Six different percentage questions in one tool — with the formula shown, so you can check the working.
+#### The six percentage formulas
+Question | Formula | Example
+What is A% of B? | A ÷ 100 × B | 25% of 200 = 50
+A is what % of B? | A ÷ B × 100 | 50 of 200 = 25%
+% change A → B | (B − A) ÷ |A| × 100 | 200 → 250 = +25%
+Increase A by B% | A × (1 + B ÷ 100) | 200 + 25% = 250
+Decrease A by B% | A × (1 − B ÷ 100) | 200 − 25% = 150
+A is B% of what? | A ÷ (B ÷ 100) | 50 is 25% of 200
+Why a decrease then an increase does not return you to the start Take 100, cut it by 20% to get 80, then add 20% back: 80 × 1.2 = 96, not 100. The second percentage is applied to a smaller base. To reverse a 20% decrease you need a 25% increase. This is the single most common percentage mistake, and it appears constantly in discount and salary-cut arithmetic. Percentage points versus percent If a rate moves from 5% to 7%, that is a rise of two percentage points but a 40% increase in the rate itself. Both statements are true and they describe the same change — mixing them up is a common source of misleading claims in reporting. Percent change when the starting value is negative The formula divides by the absolute value of A, so a move from −50 to −25 registers as a 50% improvement rather than a −50% one. Percent change on quantities that cross zero is ambiguous by nature and is usually better reported as an absolute difference.
+#### Questions
+Q: How do I calculate a percentage increase?
+A: Subtract the old value from the new one, divide by the old value, then multiply by 100. From 200 to 250: (250 − 200) ÷ 200 × 100 = 25%.
+Q: Why doesn't reversing a percentage get me back to the original?
+A: Because the second percentage applies to a different base. A 20% fall needs a 25% rise to undo it, since the rise is calculated on the reduced figure.
+Q: What is the difference between percent and percentage points?
+A: A move from 5% to 7% is two percentage points, but a 40% increase in the rate. Percentage points measure the gap between two percentages; percent measures relative change.
+Q: How do I work out the original price before a discount?
+A: Use the reverse mode. If an item costs 80 after a 20% discount, it was 80 ÷ 0.80 = 100 originally.
+Q: Can percent change be more than 100%?
+A: Yes for increases — doubling is +100%, tripling is +200%. Decreases cannot go below −100%, because that would mean the value fell past zero.
+
+### Pro-Rata Salary Calculator
+URL: https://calcnate.com/tools/pro-rata-salary-calculator/
+What a part-time or part-year role actually pays — the calculation employers get wrong most often.
+#### How pro-rata pay is calculated
+Method | How it works | Effect
+Calendar-day | Annual ÷ 365 × days employed | Used here. Neutral across months.
+Working-day | Monthly ÷ working days in that month × days worked | Slightly favours joiners in short months
+Pro rata means "in proportion". Two proportions can apply at once, and the calculation multiplies both: pay = full-time salary × (your hours ÷ full-time hours) × (days worked ÷ 365) The two reductions are independent Someone working 24 hours against a 40-hour full-time week is on 60% FTE . If they also only work seven months of the year, they receive 60% of the salary for 7/12 of the year — about 35% of the full-time annual figure. Confusing these two reductions, or applying only one, is the most common payroll error in part-time contracts. Mid-month joiners and leavers Employers use one of two conventions and they give different answers: If your contract or local law specifies one, use that. The difference is usually small but it is real, and it is worth checking on a final settlement. What is normally pro-rated too Annual leave entitlement, bonuses and in many countries end-of-service benefits are all pro-rated on the same FTE basis. Part-time employees are generally entitled to the same proportion of benefits, not a reduced rate of pay per hour — paying a lower hourly rate purely for being part-time is unlawful discrimination in much of the world.
+#### Questions
+Q: What does pro rata actually mean on a job advert?
+A: It means the advertised salary is the full-time figure and you will be paid the proportion matching your hours. A role advertised at 60,000 pro rata for 3 days a week actually pays about 36,000.
+Q: How do I calculate pro-rata annual leave?
+A: Multiply the full-time entitlement by your FTE percentage. At 60% FTE with a 25-day full-time allowance, you get 15 days. If you work fixed days, it is usually cleaner to count leave in hours.
+Q: Should part-time staff get a lower hourly rate?
+A: No. In most jurisdictions, paying a lower hourly rate solely because someone is part-time is unlawful. The total is lower because the hours are fewer, not because the rate is.
+Q: Which is right for a mid-month start — calendar days or working days?
+A: Both are used. Calendar-day is the more common default and the one applied here. Check your contract, since the two methods can differ by a few percent in a given month.
+Q: Does pro rata affect end-of-service or gratuity?
+A: Usually yes. Most systems base end-of-service on the actual salary paid and the length of service, so a part-time salary produces a proportionally smaller benefit. Country rules vary — see the country calculators.
+
+### Retirement & FIRE Calculator
+URL: https://calcnate.com/tools/retirement-savings-calculator/
+What you are on track for, what you actually need, and the age the gap closes.
+#### How the projection works
+Step 1 — grow what you have Your current savings and each monthly contribution are compounded at your expected return, month by month, until your target retirement age. Step 2 — work out what you will actually need This is the step most retirement calculators skip. The spending you enter is in today's money, so it is inflated forward to your retirement year, then converted into a required pot using the safe withdrawal rate: required pot = (annual spending × (1 + inflation) years ) ÷ withdrawal rate At 36,000 a year of spending and a 4% withdrawal rate, you need 900,000 in today's money — but 25 years of 3% inflation turns that into roughly 1.88 million of actual currency. Step 3 — find the crossover The financial independence age is the first year your projected pot exceeds the pot you would need in that year . Both numbers move, which is why the answer is rarely the age people assume. About the 4% rule The 4% safe withdrawal rate comes from the 1998 Trinity Study of historical US market data, which found a 4% initial withdrawal adjusted for inflation survived 30 years in almost all historical periods. It is a useful anchor, not a law. Reasons to use a lower figure: a retirement longer than 30 years, higher fees, a less diversified or non-US portfolio, or starting into a poor sequence of returns. Many practitioners now use 3.25–3.5% for early retirement. What is not modelled State or workplace pensions, end-of-service benefits, property, tax on withdrawals, and healthcare costs are all excluded. If you expect a state pension, subtract it from your target annual spending before entering the figure.
+#### Questions
+Q: How much do I need to retire?
+A: A common starting point is 25 times your annual spending, which is the inverse of the 4% withdrawal rate. The critical adjustment is inflation: 25× your spending today is not 25× what that spending will cost when you actually retire.
+Q: Is the 4% rule still safe?
+A: It is a historical benchmark from US data over 30-year periods, not a guarantee. For a retirement of 40 years or more, or a portfolio with higher fees or less diversification, many planners use 3.25% to 3.5% instead.
+Q: Should I include my house?
+A: Generally no, unless you intend to sell it and live on the proceeds. A home you live in does not generate the income the withdrawal-rate method assumes.
+Q: What return should I assume?
+A: Be conservative. Long-run global equities have historically returned roughly 7% before inflation, but a portfolio holding bonds or cash will return less, and fees come off the top. Running the calculation at two different rates shows how sensitive your plan is.
+Q: What if the calculator says I never reach independence?
+A: It means contributions and returns never overtake inflated spending on these inputs. The three levers are contributing more, spending less in retirement, or working longer — and the first two are usually far more powerful than chasing a higher return.
+
+### Salary Converter
+URL: https://calcnate.com/tools/salary-converter/
+Convert any pay rate to any other — using your actual working pattern, not a generic 40-hour assumption.
+#### How the conversion works
+From | To annual
+Hourly | rate × hours per week × paid weeks
+Daily | rate × days per week × paid weeks
+Weekly | rate × paid weeks
+Monthly | rate × 12
+Everything is converted through a single annual figure, then divided back out: Why "paid weeks per year" changes the answer This is the field generic converters get wrong. If you are salaried with paid annual leave, you are paid for all 52 weeks even though you work fewer — so use 52. If you are a contractor who is only paid for weeks actually worked, and you take four unpaid weeks off, use 48 . The same headline day rate produces a materially different annual figure depending on which applies to you. The 2,080-hour convention Many US-centric tools hard-code 2,080 hours (40 × 52). That is fine for a standard American full-time job and wrong nearly everywhere else — a 45-hour week is standard across much of the Gulf, 35 hours is common in France, and part-time patterns fit none of them. Setting your own hours and days is why the numbers here match your payslip. Gross, not net All figures are before income tax, social insurance and any employee contributions. Some countries also pay a statutory 13th month, which is not included here — add it to the annual figure if it applies to you.
+#### Questions
+Q: How do I convert an hourly rate to an annual salary?
+A: Multiply the hourly rate by your hours per week, then by the number of paid weeks in the year. At 25 an hour, 40 hours a week and 52 paid weeks, that is 52,000 a year gross.
+Q: Should I use 52 weeks or fewer?
+A: Use 52 if you are salaried with paid holiday, because you are paid across the whole year. Use fewer only if there are weeks you genuinely are not paid for, which is typical for contractors and some hourly roles.
+Q: Is this gross or net pay?
+A: Gross — before income tax, social security and any deductions. Net pay depends entirely on your country's tax rules and personal circumstances.
+Q: How do I handle a 13th-month salary or annual bonus?
+A: Add it to the annual total separately. A guaranteed 13th month effectively multiplies a monthly salary by 13 rather than 12.
+Q: Why does my monthly figure differ slightly from four weekly payments?
+A: Because a month averages about 4.33 weeks, not 4. Four weekly payments is roughly 92% of a true month, which is why weekly-paid workers get five payments in some months.
+
+### VAT & GST Calculator
+URL: https://calcnate.com/tools/vat-gst-calculator/
+Add tax to a net price, or extract the tax already inside a gross price.
+#### How VAT and GST are calculated
+Type | How it works | Where
+VAT | Charged at each stage; businesses reclaim input tax so only the end consumer bears it | EU, UK, GCC, most of Africa and Latin America
+GST | Mechanically the same as VAT, different name; India splits it into CGST/SGST/IGST | India, Australia, Canada, New Zealand, Singapore
+Sales tax | Charged only at final sale, no input reclaim; rates stack by state and city | United States
+Adding tax to a net price tax = net × rate ÷ 100 1,000 net at 5% → 50 tax → 1,050 gross. Removing tax from a gross price — the one people get wrong You cannot simply take the percentage off a gross figure. To strip 5% tax out of 1,050, subtracting 5% gives 997.50, which is wrong. The correct formula divides: net = gross ÷ (1 + rate ÷ 100) 1,050 ÷ 1.05 = 1,000 net, so the tax is 50. The error grows with the rate: at 20% the naive method understates the net price by 4%. VAT, GST and sales tax are not quite the same thing US sales tax is not included in the preset list because there is no national rate — the combined state and local rate varies by address, from zero in several states to over 10% in parts of Louisiana and Tennessee. Reduced and zero rates The presets are standard rates. Most countries apply reduced rates to food, medicine, books, children's clothing and transport, and zero-rate exports. India's GST runs in slabs of 0, 5, 12, 18 and 28%. Always confirm which rate applies to the specific goods or service.
+#### Questions
+Q: How do I remove VAT from a total?
+A: Divide the gross amount by 1 plus the rate as a decimal. To remove 20% VAT, divide by 1.20. Do not subtract 20% from the gross figure — that gives the wrong answer.
+Q: What is the difference between VAT and GST?
+A: Very little in mechanism. Both are value-added taxes collected in stages with input-tax recovery for businesses. The name differs by country, and India's GST is split into central and state components.
+Q: Why is US sales tax not in the list?
+A: Because the US has no national rate. Sales tax is set by states, counties and cities, so the combined rate depends on the delivery address. Five states levy no state sales tax at all.
+Q: Which rate applies to my product?
+A: The standard rate unless your product is in a reduced, zero-rated or exempt category — commonly food, medicine, books, education and healthcare. Check your tax authority's schedule; the categories are specific and often counter-intuitive.
+Q: Is the tax on the discounted price or the original?
+A: On the price actually charged, after discount. If you discount 1,000 to 900, tax is calculated on 900.
+
+### Working Days Calculator
+URL: https://calcnate.com/tools/working-days-calculator/
+Business days between two dates — with the weekend your country actually uses, not just Saturday–Sunday.
+#### How working days are counted
+Pattern | Where
+Saturday & Sunday | Europe, the Americas, most of Asia, and the UAE public sector since 2022 (which moved to a half-day Friday)
+Friday & Saturday | Egypt, Jordan, Kuwait, Qatar, Oman, Saudi Arabia, and many UAE private-sector employers
+Friday only | Some single-day-weekend employers across South Asia and the Middle East
+Thursday & Friday | The historic Gulf pattern, still found in some legacy contracts
+The calculator steps through every date from start to end inclusive, classifies each by its day of the week, and subtracts the days that fall on your chosen weekend — then subtracts any public holidays you enter. Why a configurable weekend matters Most online business-day calculators hard-code Saturday and Sunday, which quietly produces wrong answers for a large part of the world. Weekend patterns actually in use include: Pick the pattern in your own contract. If your employer runs a half-day Friday, count it as a working day and adjust the hours separately. Inclusive counting Both endpoints are included, so 1 March to 31 March returns 31 calendar days. This matches how notice periods, probation and leave are normally counted in employment contracts. If you need the gap between two dates rather than the span, subtract one. Public holidays Holiday dates differ by country and several — including Eid al-Fitr and Eid al-Adha — move each year with the lunar calendar, so they are entered as a number rather than guessed. Count only the holidays that fall on days you would otherwise have worked; a holiday landing on your weekend does not add a day off.
+#### Questions
+Q: Does the calculator include both the start and end date?
+A: Yes. A range from 1 March to 31 March counts as 31 calendar days. This matches standard employment-contract practice for notice and leave periods.
+Q: Which weekend should I choose for the UAE?
+A: It depends on the employer. The UAE public sector moved to Saturday–Sunday with a half-day Friday in January 2022, but many private-sector companies kept Friday–Saturday. Check your own contract.
+Q: Why enter holidays as a number instead of picking a country?
+A: Because public holidays vary by emirate, state and province, and Islamic holidays shift each year with moon sighting — often confirmed only days in advance. A number you control is more accurate than a stale built-in list.
+Q: Can I use this for a notice period?
+A: Yes, but check what your contract counts. Most notice periods run in calendar days, not working days, so the total-calendar-days figure is usually the relevant one.
+Q: How many working days are in a year?
+A: About 260 on a five-day week before public holidays — 365 days minus 104 weekend days. Subtract your local holidays, typically 8 to 15, for the real figure.
+

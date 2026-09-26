@@ -13,11 +13,18 @@
 <title>Contact Calcnate — Support &amp; Feedback</title>
 <meta name="description" content="Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.">
 <link rel="canonical" href="https://calcnate.com/contact/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Calcnate">
+<meta property="og:title" content="Contact Calcnate — Support &amp; Feedback">
+<meta property="og:description" content="Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.">
+<meta property="og:url" content="https://calcnate.com/contact/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Contact Calcnate — Support &amp; Feedback">
+<meta name="twitter:description" content="Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.">
 <meta name="robots" content="index,follow,max-image-preview:large">
-<meta property="og:type" content="website"><meta property="og:title" content="Contact Calcnate — Support &amp; Feedback"><meta property="og:url" content="https://calcnate.com/contact/"><meta property="og:description" content="Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.">
 <meta name="theme-color" content="#0496AD">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"ContactPage","name":"Contact Calcnate — Support &amp; Feedback","url":"https://calcnate.com/contact/","description":"Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.","isPartOf":{"@type":"WebSite","name":"Calcnate","url":"https://calcnate.com"},"publisher":{"@type":"Organization","name":"Calcnate — a Servia project","url":"https://calcnate.com"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Calcnate — a Servia project","url":"https://calcnate.com","parentOrganization":{"@type":"Organization","name":"Servia Group","url":"https://servia.ae"},"email":"support@servia.ae","areaServed":"Worldwide","contactPoint":{"@type":"ContactPoint","email":"support@servia.ae","contactType":"customer support","availableLanguage":["English","Arabic"]}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"ContactPage","name":"Contact Calcnate — Support &amp; Feedback","url":"https://calcnate.com/contact/","description":"Contact Calcnate, a Servia Group project. Email support@servia.ae for questions, corrections or feedback on our free labour-law calculators.","isPartOf":{"@type":"WebSite","name":"Calcnate","url":"https://calcnate.com"},"publisher":{"@type":"Organization","name":"Calcnate","url":"https://calcnate.com"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Calcnate","url":"https://calcnate.com","parentOrganization":{"@type":"Organization","name":"Servia Group","url":"https://servia.ae"},"email":"support@servia.ae","areaServed":"Worldwide","contactPoint":{"@type":"ContactPoint","email":"support@servia.ae","contactType":"customer support","availableLanguage":["English","Arabic"]}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Calcnate","item":"https://calcnate.com/"},{"@type":"ListItem","position":2,"name":"Contact Calcnate","item":"https://calcnate.com/contact/"}]}</script>
 <style>:root{--ink:#0f172a;--teal:#0496AD;--deep:#0F766E;--muted:#64748b;--border:#e2e8f0;--bg:#f8fafc;--good:#047857}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -71,6 +78,82 @@ article h2{margin-top:18px}article ul,article ol{margin:8px 0 8px 22px}article l
 <p><strong>Calcnate</strong> is a free-calculator project by the <a href="https://servia.ae" rel="noopener"><strong>Servia Group</strong></a>, a UAE-based technology and business-services company. We would genuinely like to hear from you — especially if you spot a figure that needs updating.</p>
 <h2>Email us</h2>
 <p>The best way to reach us is by email: <a href="mailto:support@servia.ae"><strong>support@servia.ae</strong></a>. One inbox, monitored by a real person.</p>
+<h2>Send a message</h2>
+<p>Use this form or email us directly. Please do not include salary slips, ID numbers or other sensitive documents.</p>
+<form id="cn-contact" class="card" novalidate>
+<label for="cf-name">Your name</label>
+<input id="cf-name" name="name" type="text" autocomplete="name" maxlength="120" required>
+<label for="cf-email">Email address</label>
+<input id="cf-email" name="email" type="email" autocomplete="email" maxlength="200" required>
+<label for="cf-phone">Phone <span class="hint">(optional)</span></label>
+<input id="cf-phone" name="phone" type="tel" autocomplete="tel" maxlength="40">
+<label for="cf-subject">Subject</label>
+<select id="cf-subject" name="subject">
+<option>Correction or law update</option>
+<option>Question about a result</option>
+<option>Feedback or feature request</option>
+<option>Press or partnership</option>
+<option>Other</option>
+</select>
+<label for="cf-body">Message</label>
+<textarea id="cf-body" name="body" rows="6" maxlength="5000" required></textarea>
+<div class="cf-hp" aria-hidden="true"><label for="website">Leave this field empty</label><input id="website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+<button class="btn" type="submit" id="cf-send">Send message</button>
+<p id="cf-status" class="cf-status" role="status" aria-live="polite"></p>
+</form>
+<style>
+#cn-contact textarea{width:100%;padding:11px 12px;border:1px solid var(--border);border-radius:10px;font:inherit;font-size:15px;background:#fff}
+#cn-contact textarea:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 3px rgba(4,150,173,.12)}
+.cf-hp{position:absolute!important;left:-10000px!important;width:1px;height:1px;overflow:hidden}
+.cf-status{margin-top:12px;font-size:14px}
+.cf-status.ok{color:var(--good);font-weight:700}
+.cf-status.err{color:#b91c1c}
+</style>
+<script>
+(function () {
+  // Multi-site enquiry relay (Google Apps Script). Leave empty to use email only.
+  var RELAY_URL = '';
+  var SITE = 'calcnate.com';
+  var FORM_NAME = 'contact';
+  var CONTACT_EMAIL = 'support@servia.ae';
+  var loadedAt = Date.now();
+  var form = document.getElementById('cn-contact');
+  var status = document.getElementById('cf-status');
+  var btn = document.getElementById('cf-send');
+  function val(id) { return (document.getElementById(id).value || '').trim(); }
+  function mailtoHref(d) {
+    var text = d.body + '\n\n' + d.name + (d.phone ? '\n' + d.phone : '') + '\n' + d.email;
+    return 'mailto:' + CONTACT_EMAIL + '?subject=' + encodeURIComponent('[Calcnate] ' + d.subject) + '&body=' + encodeURIComponent(text);
+  }
+  function show(cls, html) { status.className = 'cf-status ' + cls; status.innerHTML = html; }
+  function fallback(d, reason) {
+    var link = '<a href="' + mailtoHref(d).replace(/"/g, '&quot;') + '">email us at ' + CONTACT_EMAIL + '</a>';
+    show('err', (reason ? reason + ' ' : '') + 'Please ' + link + ' instead. Your message has not been lost: the link opens it in your email app.');
+  }
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var d = { name: val('cf-name'), email: val('cf-email'), phone: val('cf-phone'), subject: val('cf-subject'), body: val('cf-body') };
+    if (!d.name || !d.body) { show('err', 'Please add your name and a message.'); return; }
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(d.email)) { show('err', 'Please enter a valid email address so we can reply.'); document.getElementById('cf-email').focus(); return; }
+    if (!RELAY_URL) { window.location.href = mailtoHref(d); show('ok', 'Your email app should open with the message ready to send. If it does not, email ' + CONTACT_EMAIL + '.'); return; }
+    btn.disabled = true; show('', 'Sending…');
+    fetch(RELAY_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ site: SITE, form: FORM_NAME, name: d.name, email: d.email, phone: d.phone, subject: d.subject, body: d.body,
+        page: location.pathname, website: document.getElementById('website').value, elapsed: Date.now() - loadedAt })
+    }).then(function (r) { return r.json(); }).then(function (res) {
+      if (res && res.ok) { form.reset(); show('ok', 'Thank you. Your message has been sent and we aim to reply within two business days.'); }
+      else {
+        var why = { email: 'That email address was not accepted.', rate: 'Too many messages were sent from here recently.', site: 'The form is not set up correctly.', server: 'Our message service had a problem.' };
+        fallback(d, why[res && res.error] || 'The message could not be sent.');
+      }
+    }).catch(function () { fallback(d, 'The message could not be sent.'); })
+      .then(function () { btn.disabled = false; });
+  });
+})();
+</script>
+<p class="sub">How the form works: when online sending is switched on, your message is passed through a Google Apps Script and delivered to our inbox by Gmail. If online sending is off or fails, the form opens your own email app instead. See our <a href="/privacy/">privacy policy</a>.</p>
 <h2>How to reach us</h2>
 <ul>
 <li><strong>Corrections &amp; law updates.</strong> If a rate, cap or rule has changed, tell us the country, the calculator, and the source (a government link is ideal) and we will review and update it.</li>

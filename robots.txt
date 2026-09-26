@@ -1,6 +1,21 @@
+# calcnate.com: search engines and AI assistants are welcome to crawl and cite this site.
 User-agent: *
 Allow: /
 
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# AI search, assistants and training crawlers
 User-agent: GPTBot
 Allow: /
 
@@ -13,6 +28,12 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
 User-agent: anthropic-ai
 Allow: /
 
@@ -23,6 +44,9 @@ User-agent: Google-Extended
 Allow: /
 
 User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
 Allow: /
 
 User-agent: Applebot-Extended
