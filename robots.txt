@@ -77,6 +77,6 @@ User-agent: CCBot
 Allow: /
 
 User-agent: Bytespider
-Disallow: /
+Allow: /
 
 Sitemap: https://calcnate.com/sitemap.xml
